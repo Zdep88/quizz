@@ -438,5 +438,145 @@
 		"question": "Quelle méthode JavaScript est utilisée pour vérifier si une chaîne commence par un certain caractère ?",
 		"options": ["startsWith()", "endsWith()", "charAt()", "includes()"],
 		"answer": "startsWith()"
+	},
+	{
+		"theme": "linux",
+		"number": 1,
+		"question": "Quelle commande est utilisée pour afficher le contenu d'un répertoire ?",
+		"options": ["ls", "cd", "pwd", "mkdir"],
+		"answer": "ls"
+	},
+	{
+		"theme": "linux",
+		"number": 2,
+		"question": "Quelle commande est utilisée pour changer de répertoire ?",
+		"options": ["cd", "ls", "pwd", "mv"],
+		"answer": "cd"
+	},
+	{
+		"theme": "linux",
+		"number": 3,
+		"question": "Quelle commande est utilisée pour afficher le chemin du répertoire courant ?",
+		"options": ["pwd", "ls", "cd", "path"],
+		"answer": "pwd"
+	},
+	{
+		"theme": "linux",
+		"number": 4,
+		"question": "Quelle commande est utilisée pour créer un nouveau fichier vide ?",
+		"options": ["touch", "mkdir", "nano", "cat"],
+		"answer": "touch"
+	},
+	{
+		"theme": "linux",
+		"number": 5,
+		"question": "Quelle commande est utilisée pour créer un nouveau répertoire ?",
+		"options": ["mkdir", "touch", "cd", "ls"],
+		"answer": "mkdir"
+	},
+	{
+		"theme": "linux",
+		"number": 6,
+		"question": "Quelle commande est utilisée pour copier un fichier ?",
+		"options": ["cp", "mv", "copy", "scp"],
+		"answer": "cp"
+	},
+	{
+		"theme": "linux",
+		"number": 7,
+		"question": "Quelle commande est utilisée pour déplacer ou renommer un fichier ?",
+		"options": ["mv", "cp", "rename", "move"],
+		"answer": "mv"
+	},
+	{
+		"theme": "linux",
+		"number": 8,
+		"question": "Quelle commande est utilisée pour supprimer un fichier ?",
+		"options": ["rm", "delete", "erase", "rmdir"],
+		"answer": "rm"
+	},
+	{
+		"theme": "linux",
+		"number": 9,
+		"question": "Quelle commande est utilisée pour supprimer un répertoire vide ?",
+		"options": ["rmdir", "rm", "delete", "erase"],
+		"answer": "rmdir"
+	},
+	{
+		"theme": "linux",
+		"number": 10,
+		"question": "Quelle commande est utilisée pour afficher le contenu d'un fichier ?",
+		"options": ["cat", "less", "more", "view"],
+		"answer": "cat"
+	},
+	{
+		"theme": "linux",
+		"number": 11,
+		"question": "Quelle commande est utilisée pour afficher les 10 premières lignes d'un fichier ?",
+		"options": ["head", "tail", "cat", "less"],
+		"answer": "head"
+	},
+	{
+		"theme": "linux",
+		"number": 12,
+		"question": "Quelle commande est utilisée pour afficher les 10 dernières lignes d'un fichier ?",
+		"options": ["tail", "head", "cat", "less"],
+		"answer": "tail"
+	},
+	{
+		"theme": "linux",
+		"number": 13,
+		"question": "Quelle commande est utilisée pour rechercher un mot-clé dans un fichier ?",
+		"options": ["grep", "find", "search", "locate"],
+		"answer": "grep"
+	},
+	{
+		"theme": "linux",
+		"number": 14,
+		"question": "Quelle commande est utilisée pour afficher les processus en cours ?",
+		"options": ["ps", "top", "htop", "jobs"],
+		"answer": "ps"
+	},
+	{
+		"theme": "linux",
+		"number": 15,
+		"question": "Quelle commande est utilisée pour afficher l'utilisation des ressources système en temps réel ?",
+		"options": ["top", "htop", "ps", "uptime"],
+		"answer": "top"
+	},
+	{
+		"theme": "linux",
+		"number": 16,
+		"question": "Quelle commande est utilisée pour changer les permissions d'un fichier ?",
+		"options": ["chmod", "chown", "chgrp", "permissions"],
+		"answer": "chmod"
+	},
+	{
+		"theme": "linux",
+		"number": 17,
+		"question": "Quelle commande est utilisée pour changer le propriétaire d'un fichier ?",
+		"options": ["chown", "chmod", "chgrp", "owner"],
+		"answer": "chown"
+	},
+	{
+		"theme": "linux",
+		"number": 18,
+		"question": "Quelle commande est utilisée pour afficher l'espace disque utilisé ?",
+		"options": ["df", "du", "disk", "space"],
+		"answer": "df"
+	},
+	{
+		"theme": "linux",
+		"number": 19,
+		"question": "Quelle commande est utilisée pour afficher l'utilisation d'un répertoire spécifique ?",
+		"options": ["du", "df", "disk", "space"],
+		"answer": "du"
+	},
+	{
+		"theme": "linux",
+		"number": 20,
+		"question": "Quelle commande est utilisée pour afficher l'adresse IP de la machine ?",
+		"options": ["ifconfig", "ipconfig", "ip addr", "netstat"],
+		"answer": "ifconfig"
 	}
 ]
