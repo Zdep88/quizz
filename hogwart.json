@@ -1,0 +1,332 @@
+[
+	{
+		"theme": "Maisons",
+		"number": 1,
+		"question": "Quelle maison de Poudlard a pour emblème un lion ?",
+		"options": ["Gryffondor", "Serpentard", "Poufsouffle", "Serdaigle"],
+		"answer": "Gryffondor"
+	},
+	{
+		"theme": "Maisons",
+		"number": 2,
+		"question": "Quelle maison de Poudlard valorise le courage et la bravoure ?",
+		"options": ["Gryffondor", "Serpentard", "Poufsouffle", "Serdaigle"],
+		"answer": "Gryffondor"
+	},
+	{
+		"theme": "Maisons",
+		"number": 3,
+		"question": "Quelle maison de Poudlard a pour emblème un serpent ?",
+		"options": ["Serpentard", "Gryffondor", "Poufsouffle", "Serdaigle"],
+		"answer": "Serpentard"
+	},
+	{
+		"theme": "Maisons",
+		"number": 4,
+		"question": "Quelle maison de Poudlard valorise la ruse et l'ambition ?",
+		"options": ["Serpentard", "Gryffondor", "Poufsouffle", "Serdaigle"],
+		"answer": "Serpentard"
+	},
+	{
+		"theme": "Maisons",
+		"number": 5,
+		"question": "Quelle maison de Poudlard a pour emblème un blaireau ?",
+		"options": ["Poufsouffle", "Gryffondor", "Serpentard", "Serdaigle"],
+		"answer": "Poufsouffle"
+	},
+	{
+		"theme": "Maisons",
+		"number": 6,
+		"question": "Quelle maison de Poudlard valorise la loyauté et la patience ?",
+		"options": ["Poufsouffle", "Gryffondor", "Serpentard", "Serdaigle"],
+		"answer": "Poufsouffle"
+	},
+	{
+		"theme": "Maisons",
+		"number": 7,
+		"question": "Quelle maison de Poudlard a pour emblème un aigle ?",
+		"options": ["Serdaigle", "Gryffondor", "Serpentard", "Poufsouffle"],
+		"answer": "Serdaigle"
+	},
+	{
+		"theme": "Maisons",
+		"number": 8,
+		"question": "Quelle maison de Poudlard valorise l'intelligence et la sagesse ?",
+		"options": ["Serdaigle", "Gryffondor", "Serpentard", "Poufsouffle"],
+		"answer": "Serdaigle"
+	},
+	{
+		"theme": "Maisons",
+		"number": 9,
+		"question": "Quelle maison de Poudlard a été fondée par Helga Poufsouffle ?",
+		"options": ["Poufsouffle", "Gryffondor", "Serpentard", "Serdaigle"],
+		"answer": "Poufsouffle"
+	},
+	{
+		"theme": "Maisons",
+		"number": 10,
+		"question": "Quelle maison de Poudlard a été fondée par Rowena Serdaigle ?",
+		"options": ["Serdaigle", "Gryffondor", "Serpentard", "Poufsouffle"],
+		"answer": "Serdaigle"
+	},
+	{
+		"theme": "Personnages",
+		"number": 1,
+		"question": "Quel personnage est connu comme 'Celui qui a survécu' ?",
+		"options": [
+			"Harry Potter",
+			"Ron Weasley",
+			"Hermione Granger",
+			"Neville Londubat"
+		],
+		"answer": "Harry Potter"
+	},
+	{
+		"theme": "Personnages",
+		"number": 2,
+		"question": "Qui est le directeur de Poudlard pendant la majorité de la série ?",
+		"options": [
+			"Albus Dumbledore",
+			"Severus Rogue",
+			"Minerva McGonagall",
+			"Dolores Ombrage"
+		],
+		"answer": "Albus Dumbledore"
+	},
+	{
+		"theme": "Personnages",
+		"number": 3,
+		"question": "Quel personnage est le meilleur ami de Harry Potter ?",
+		"options": [
+			"Ron Weasley",
+			"Drago Malefoy",
+			"Neville Londubat",
+			"Cedric Diggory"
+		],
+		"answer": "Ron Weasley"
+	},
+	{
+		"theme": "Personnages",
+		"number": 4,
+		"question": "Quel personnage est connu pour son intelligence exceptionnelle ?",
+		"options": [
+			"Hermione Granger",
+			"Luna Lovegood",
+			"Ginny Weasley",
+			"Cho Chang"
+		],
+		"answer": "Hermione Granger"
+	},
+	{
+		"theme": "Personnages",
+		"number": 5,
+		"question": "Quel personnage est le rival de Harry à Serpentard ?",
+		"options": [
+			"Drago Malefoy",
+			"Severus Rogue",
+			"Lucius Malefoy",
+			"Voldemort"
+		],
+		"answer": "Drago Malefoy"
+	},
+	{
+		"theme": "Personnages",
+		"number": 6,
+		"question": "Quel personnage est le professeur de potions au début de la série ?",
+		"options": [
+			"Severus Rogue",
+			"Horace Slughorn",
+			"Minerva McGonagall",
+			"Gilderoy Lockhart"
+		],
+		"answer": "Severus Rogue"
+	},
+	{
+		"theme": "Personnages",
+		"number": 7,
+		"question": "Quel personnage est connu pour ses cheveux roux et sa grande famille ?",
+		"options": [
+			"Ron Weasley",
+			"Ginny Weasley",
+			"Fred Weasley",
+			"George Weasley"
+		],
+		"answer": "Ron Weasley"
+	},
+	{
+		"theme": "Personnages",
+		"number": 8,
+		"question": "Quel personnage est le gardien des clés et des lieux à Poudlard ?",
+		"options": [
+			"Rubeus Hagrid",
+			"Argus Rusard",
+			"Alastor Maugrey",
+			"Remus Lupin"
+		],
+		"answer": "Rubeus Hagrid"
+	},
+	{
+		"theme": "Personnages",
+		"number": 9,
+		"question": "Quel personnage est connu pour ses lunettes en forme de demi-lune ?",
+		"options": [
+			"Albus Dumbledore",
+			"Harry Potter",
+			"Minerva McGonagall",
+			"Severus Rogue"
+		],
+		"answer": "Albus Dumbledore"
+	},
+	{
+		"theme": "Personnages",
+		"number": 10,
+		"question": "Quel personnage est le Seigneur des Ténèbres ?",
+		"options": [
+			"Voldemort",
+			"Lucius Malefoy",
+			"Bellatrix Lestrange",
+			"Drago Malefoy"
+		],
+		"answer": "Voldemort"
+	},
+	{
+		"theme": "Sortilèges",
+		"number": 1,
+		"question": "Quel sort est utilisé pour désarmer un adversaire ?",
+		"options": ["Expelliarmus", "Stupefix", "Avada Kedavra", "Accio"],
+		"answer": "Expelliarmus"
+	},
+	{
+		"theme": "Sortilèges",
+		"number": 2,
+		"question": "Quel sort est utilisé pour tuer ?",
+		"options": ["Avada Kedavra", "Crucio", "Imperio", "Stupefix"],
+		"answer": "Avada Kedavra"
+	},
+	{
+		"theme": "Sortilèges",
+		"number": 3,
+		"question": "Quel sort est utilisé pour faire léviter des objets ?",
+		"options": ["Wingardium Leviosa", "Accio", "Lumos", "Alohomora"],
+		"answer": "Wingardium Leviosa"
+	},
+	{
+		"theme": "Sortilèges",
+		"number": 4,
+		"question": "Quel sort est utilisé pour ouvrir des portes verrouillées ?",
+		"options": ["Alohomora", "Accio", "Lumos", "Nox"],
+		"answer": "Alohomora"
+	},
+	{
+		"theme": "Sortilèges",
+		"number": 5,
+		"question": "Quel sort est utilisé pour éclairer la baguette ?",
+		"options": ["Lumos", "Nox", "Accio", "Alohomora"],
+		"answer": "Lumos"
+	},
+	{
+		"theme": "Sortilèges",
+		"number": 6,
+		"question": "Quel sort est utilisé pour éteindre la lumière de la baguette ?",
+		"options": ["Nox", "Lumos", "Accio", "Alohomora"],
+		"answer": "Nox"
+	},
+	{
+		"theme": "Sortilèges",
+		"number": 7,
+		"question": "Quel sort est utilisé pour invoquer un objet ?",
+		"options": ["Accio", "Wingardium Leviosa", "Alohomora", "Lumos"],
+		"answer": "Accio"
+	},
+	{
+		"theme": "Sortilèges",
+		"number": 8,
+		"question": "Quel sort est utilisé pour stupéfier un adversaire ?",
+		"options": ["Stupefix", "Expelliarmus", "Avada Kedavra", "Crucio"],
+		"answer": "Stupefix"
+	},
+	{
+		"theme": "Sortilèges",
+		"number": 9,
+		"question": "Quel sort est utilisé pour torturer ?",
+		"options": ["Crucio", "Avada Kedavra", "Imperio", "Stupefix"],
+		"answer": "Crucio"
+	},
+	{
+		"theme": "Sortilèges",
+		"number": 10,
+		"question": "Quel sort est utilisé pour contrôler quelqu'un ?",
+		"options": ["Imperio", "Crucio", "Avada Kedavra", "Stupefix"],
+		"answer": "Imperio"
+	},
+	{
+		"theme": "Créatures",
+		"number": 1,
+		"question": "Quelle créature est connue pour garder les coffres de Gringotts ?",
+		"options": ["Dragon", "Gobelin", "Sombral", "Hippogriffe"],
+		"answer": "Gobelin"
+	},
+	{
+		"theme": "Créatures",
+		"number": 2,
+		"question": "Quelle créature est Buck l'Hippogriffe ?",
+		"options": ["Hippogriffe", "Sombral", "Dragon", "Acromantula"],
+		"answer": "Hippogriffe"
+	},
+	{
+		"theme": "Créatures",
+		"number": 3,
+		"question": "Quelle créature est Aragog ?",
+		"options": ["Acromantula", "Dragon", "Sombral", "Hippogriffe"],
+		"answer": "Acromantula"
+	},
+	{
+		"theme": "Créatures",
+		"number": 4,
+		"question": "Quelle créature est Fumseck ?",
+		"options": ["Phénix", "Dragon", "Sombral", "Hippogriffe"],
+		"answer": "Phénix"
+	},
+	{
+		"theme": "Créatures",
+		"number": 5,
+		"question": "Quelle créature est utilisée pour tirer les carrosses de Poudlard ?",
+		"options": ["Sombral", "Hippogriffe", "Dragon", "Acromantula"],
+		"answer": "Sombral"
+	},
+	{
+		"theme": "Créatures",
+		"number": 6,
+		"question": "Quelle créature est Norbert ?",
+		"options": ["Dragon", "Hippogriffe", "Sombral", "Acromantula"],
+		"answer": "Dragon"
+	},
+	{
+		"theme": "Créatures",
+		"number": 7,
+		"question": "Quelle créature est Dobby ?",
+		"options": ["Elfe de maison", "Gobelin", "Sombral", "Hippogriffe"],
+		"answer": "Elfe de maison"
+	},
+	{
+		"theme": "Créatures",
+		"number": 8,
+		"question": "Quelle créature est utilisée pour envoyer du courrier dans le monde des sorciers ?",
+		"options": ["Hibou", "Sombral", "Dragon", "Hippogriffe"],
+		"answer": "Hibou"
+	},
+	{
+		"theme": "Créatures",
+		"number": 9,
+		"question": "Quelle créature est Nagini ?",
+		"options": ["Serpent", "Dragon", "Sombral", "Acromantula"],
+		"answer": "Serpent"
+	},
+	{
+		"theme": "Créatures",
+		"number": 10,
+		"question": "Quelle créature est Fluffy ?",
+		"options": ["Chien à trois têtes", "Dragon", "Sombral", "Hippogriffe"],
+		"answer": "Chien à trois têtes"
+	}
+]
