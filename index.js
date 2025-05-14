@@ -15,11 +15,10 @@ const app = {
     },
 
     ajouterLeTitre() {
-        const parent = document.querySelector(".app");
+        const parent = document.querySelector(".header");
         const enfant = document.createElement("h1");
         enfant.classList.add("titre");
         enfant.textContent = "Quizz";
-        enfant.style.backgroundColor = "darkblue";
         parent.append(enfant);
     },
 

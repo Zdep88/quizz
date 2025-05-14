@@ -1,7 +1,14 @@
+* {
+    margin: 0;
+}
+.header {
+}
+
 .app {
-    color: white;
-    background-color: blueviolet;
+    color: rgb(0, 0, 0);
+    background : linear-gradient(rgb(87, 105, 194), white);
     font-size: 2rem;
+    width: 100%;
 }
 
 .app button {
