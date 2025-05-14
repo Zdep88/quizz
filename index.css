@@ -1,5 +1,10 @@
 .app {
     color: white;
     background-color: blueviolet;
+    font-size: 2rem;
+}
+
+.app button {
+    font-size: 2rem
 }
 

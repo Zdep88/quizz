@@ -597,6 +597,7 @@ const app = {
     ajouterLeTitre() {
         const parent = document.querySelector(".app");
         const enfant = document.createElement("h1");
+        enfant.classList.add("titre");
         enfant.textContent = "Quizz";
         enfant.style.backgroundColor = "darkblue";
         parent.append(enfant);
@@ -611,6 +612,7 @@ const app = {
         const question = app.choix.question;
         const $parent = document.querySelector(".app");
         const $question = document.createElement("p");
+        $question.classList.add("question")
         $question.textContent = question;
         $parent.append($question);
     },
@@ -618,16 +620,26 @@ const app = {
     afficherTheme() {
         const $parent = document.querySelector(".app");
         const $theme = document.createElement("p");
+        $theme.classList.add("theme");
         $theme.textContent = app.choix.theme;
         $parent.append($theme);
     },
 
     afficherOptions() {
         const $parent = document.querySelector(".app");
-
-        for (let i = 0; i < app.choix.options.length; i++) {
+        let list = app.choix.options;
+        const randomList = [];
+        
+        while (list.length) {
+            const index = Math.floor(Math.random() * list.length)
+            randomList.push(list[index]);
+            list = [...list.slice(0, index), ...list.slice(index + 1)];  
+        };
+    
+        for (let i = 0; i < randomList.length; i++) {
             const $options = document.createElement("button");
-            $options.textContent = app.choix.options[i];
+            $options.classList.add("boutonReponse")
+            $options.textContent = randomList[i];
             $parent.append($options);
             $options.addEventListener("click", () => {
                 app.reponseChoisie = $options.textContent
@@ -658,12 +670,16 @@ const app = {
                 const $newQuestion = document.createElement("button");
                 $newQuestion.classList.add("newQuestion");
                 $newQuestion.textContent = "Passer à la question suivante";
-
                 $parent.append($newQuestion);
+                $newQuestion.addEventListener("click", () => { app.poserUneNouvelleQuestion() })
             };
-
         }
+    },
 
+    poserUneNouvelleQuestion() {
+        const application = document.querySelector(".app");
+        application.innerHTML = "";
+        app.exe();
     },
 
 
