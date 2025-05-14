@@ -1,0 +1,882 @@
+[
+	{
+		"theme": "League of Legends",
+		"number": 1,
+		"question": "Quel champion est connu comme le 'Faucheur des Abysses' ?",
+		"options": ["Thresh", "Pyke", "Nautilus", "Fiddlesticks"],
+		"answer": "Pyke"
+	},
+	{
+		"theme": "League of Legends",
+		"number": 2,
+		"question": "Quel est le rôle principal de Janna ?",
+		"options": ["Support", "ADC", "Jungle", "Mid"],
+		"answer": "Support"
+	},
+	{
+		"theme": "League of Legends",
+		"number": 3,
+		"question": "Quel objet est utilisé pour accorder une vision temporaire dans une zone ?",
+		"options": [
+			"Balise de Vision",
+			"Balise de Contrôle",
+			"Totem de Vision",
+			"Orbe de Clairvoyance"
+		],
+		"answer": "Totem de Vision"
+	},
+	{
+		"theme": "League of Legends",
+		"number": 4,
+		"question": "Quel champion est surnommé 'Le Déchaîné' ?",
+		"options": ["Sylas", "Ryze", "Kassadin", "Vladimir"],
+		"answer": "Sylas"
+	},
+	{
+		"theme": "League of Legends",
+		"number": 5,
+		"question": "Quel dragon offre un bonus de régénération de vie et de mana ?",
+		"options": [
+			"Dragon Océanique",
+			"Dragon des Montagnes",
+			"Dragon Infernal",
+			"Dragon des Nuages"
+		],
+		"answer": "Dragon Océanique"
+	},
+	{
+		"theme": "League of Legends",
+		"number": 6,
+		"question": "Quel champion est connu pour sa capacité ultime 'Assaut Impitoyable' ?",
+		"options": ["Hecarim", "Rammus", "Sejuani", "Skarner"],
+		"answer": "Hecarim"
+	},
+	{
+		"theme": "League of Legends",
+		"number": 7,
+		"question": "Quel est le rôle principal de Kindred ?",
+		"options": ["Jungle", "Top", "Mid", "Support"],
+		"answer": "Jungle"
+	},
+	{
+		"theme": "League of Legends",
+		"number": 8,
+		"question": "Quel champion est surnommé 'Le Virtuose' ?",
+		"options": ["Jhin", "Ezreal", "Aphelios", "Draven"],
+		"answer": "Jhin"
+	},
+	{
+		"theme": "League of Legends",
+		"number": 9,
+		"question": "Quel objet est utilisé pour réduire les soins des ennemis ?",
+		"options": [
+			"Morellonomicon",
+			"Épée du Roi Déchu",
+			"Danseur Fantôme",
+			"Gage de Sterak"
+		],
+		"answer": "Morellonomicon"
+	},
+	{
+		"theme": "League of Legends",
+		"number": 10,
+		"question": "Quel champion est connu pour sa capacité ultime 'Canon Barrage' ?",
+		"options": ["Gangplank", "Miss Fortune", "Graves", "Twisted Fate"],
+		"answer": "Gangplank"
+	},
+	{
+		"theme": "League of Legends",
+		"number": 11,
+		"question": "Quel champion est surnommé 'Le Colosse' ?",
+		"options": ["Malphite", "Ornn", "Sion", "Cho'Gath"],
+		"answer": "Sion"
+	},
+	{
+		"theme": "League of Legends",
+		"number": 12,
+		"question": "Quel dragon offre un bonus de vitesse de déplacement hors combat ?",
+		"options": [
+			"Dragon des Nuages",
+			"Dragon Océanique",
+			"Dragon des Montagnes",
+			"Dragon Infernal"
+		],
+		"answer": "Dragon des Nuages"
+	},
+	{
+		"theme": "League of Legends",
+		"number": 13,
+		"question": "Quel champion est connu pour sa capacité ultime 'Tempête de Lames' ?",
+		"options": ["Katarina", "Yasuo", "Zed", "Akali"],
+		"answer": "Katarina"
+	},
+	{
+		"theme": "League of Legends",
+		"number": 14,
+		"question": "Quel est le rôle principal de Thresh ?",
+		"options": ["Support", "ADC", "Jungle", "Top"],
+		"answer": "Support"
+	},
+	{
+		"theme": "League of Legends",
+		"number": 15,
+		"question": "Quel champion est surnommé 'Le Vagabond' ?",
+		"options": ["Ryze", "Yasuo", "Zed", "Ekko"],
+		"answer": "Yasuo"
+	},
+	{
+		"theme": "League of Legends",
+		"number": 16,
+		"question": "Quel objet est utilisé pour augmenter la puissance des sorts ?",
+		"options": [
+			"Coiffe de Rabadon",
+			"Sceptre de Rylai",
+			"Bâton du Vide",
+			"Étreinte Démoniaque"
+		],
+		"answer": "Coiffe de Rabadon"
+	},
+	{
+		"theme": "League of Legends",
+		"number": 17,
+		"question": "Quel champion est connu pour sa capacité ultime 'Frappe du Dragon' ?",
+		"options": ["Lee Sin", "Xin Zhao", "Jarvan IV", "Vi"],
+		"answer": "Lee Sin"
+	},
+	{
+		"theme": "League of Legends",
+		"number": 18,
+		"question": "Quel dragon offre un bonus de dégâts d'attaque et de puissance ?",
+		"options": [
+			"Dragon Infernal",
+			"Dragon des Nuages",
+			"Dragon Océanique",
+			"Dragon des Montagnes"
+		],
+		"answer": "Dragon Infernal"
+	},
+	{
+		"theme": "League of Legends",
+		"number": 19,
+		"question": "Quel champion est surnommé 'Le Démon Jester' ?",
+		"options": ["Shaco", "Fiddlesticks", "Nocturne", "Evelynn"],
+		"answer": "Shaco"
+	},
+	{
+		"theme": "League of Legends",
+		"number": 20,
+		"question": "Quel est le rôle principal de Rammus ?",
+		"options": ["Jungle", "Top", "Support", "Mid"],
+		"answer": "Jungle"
+	},
+	{
+		"theme": "League of Legends",
+		"number": 21,
+		"question": "Quel champion est connu pour sa capacité à voler la vie ?",
+		"options": ["Aatrox", "Draven", "Mordekaiser", "Nasus"],
+		"answer": "Aatrox"
+	},
+	{
+		"theme": "League of Legends",
+		"number": 22,
+		"question": "Quel objet est essentiel pour un jungler au début de la partie ?",
+		"options": ["Machette", "Dague", "Bâton de feu", "Arc de fer"],
+		"answer": "Machette"
+	},
+	{
+		"theme": "League of Legends",
+		"number": 23,
+		"question": "Quel est le rôle principal de Zed ?",
+		"options": ["Assassin", "Tank", "Support", "Mage"],
+		"answer": "Assassin"
+	},
+	{
+		"theme": "League of Legends",
+		"number": 24,
+		"question": "Quel champion peut se transformer en dragon ?",
+		"options": ["Shyvana", "Katarina", "Lissandra", "Rumble"],
+		"answer": "Shyvana"
+	},
+	{
+		"theme": "League of Legends",
+		"number": 25,
+		"question": "Quel est le rôle principal de Sona ?",
+		"options": ["Support", "ADC", "Tank", "Jungle"],
+		"answer": "Support"
+	},
+	{
+		"theme": "League of Legends",
+		"number": 26,
+		"question": "Quel objet augmente la vitesse d'attaque et accorde un vol de vie ?",
+		"options": [
+			"Danseur Fantôme",
+			"Gage de Sterak",
+			"Cimeterre de l'Invoquer",
+			"Lame enragée de Guinsoo"
+		],
+		"answer": "Lame enragée de Guinsoo"
+	},
+	{
+		"theme": "League of Legends",
+		"number": 27,
+		"question": "Quel champion est connu pour sa capacité à contrôler le temps ?",
+		"options": ["Zilean", "Lulu", "Janna", "Soraka"],
+		"answer": "Zilean"
+	},
+	{
+		"theme": "League of Legends",
+		"number": 28,
+		"question": "Quel dragon offre un bonus de régénération de mana ?",
+		"options": [
+			"Dragon Océanique",
+			"Dragon des Montagnes",
+			"Dragon Infernal",
+			"Dragon des Nuages"
+		],
+		"answer": "Dragon Océanique"
+	},
+	{
+		"theme": "League of Legends",
+		"number": 29,
+		"question": "Quel champion est surnommé 'La Reine des Lames' ?",
+		"options": ["Irelia", "Riven", "Akali", "Katarina"],
+		"answer": "Irelia"
+	},
+	{
+		"theme": "League of Legends",
+		"number": 30,
+		"question": "Quel est le rôle principal de Blitzcrank ?",
+		"options": ["Support", "ADC", "Tank", "Jungle"],
+		"answer": "Support"
+	},
+	{
+		"theme": "League of Legends",
+		"number": 31,
+		"question": "Quel objet est utilisé pour annuler les effets de contrôle de foule ?",
+		"options": [
+			"Mercure's Treads",
+			"Quicksilver",
+			"Banshee's Veil",
+			"Zhonya's Hourglass"
+		],
+		"answer": "Quicksilver"
+	},
+	{
+		"theme": "League of Legends",
+		"number": 32,
+		"question": "Quel champion peut invoquer un ours ?",
+		"options": ["Amumu", "Nidalee", "Elise", "Lissandra"],
+		"answer": "Nidalee"
+	},
+	{
+		"theme": "League of Legends",
+		"number": 33,
+		"question": "Quel dragon offre un bonus de dégâts d'attaque aux tireurs ?",
+		"options": [
+			"Dragon des Montagnes",
+			"Dragon Infernal",
+			"Dragon Océanique",
+			"Dragon des Nuages"
+		],
+		"answer": "Dragon des Montagnes"
+	},
+	{
+		"theme": "League of Legends",
+		"number": 34,
+		"question": "Quel champion est connu pour sa capacité à se téléporter sur une courte distance ?",
+		"options": ["Kassadin", "Zed", "Fizz", "Riven"],
+		"answer": "Kassadin"
+	},
+	{
+		"theme": "League of Legends",
+		"number": 35,
+		"question": "Quel est le rôle principal de Ashe ?",
+		"options": ["ADC", "Support", "Tank", "Jungle"],
+		"answer": "ADC"
+	},
+	{
+		"theme": "League of Legends",
+		"number": 36,
+		"question": "Quel objet est utilisé pour augmenter la portée d'attaque ?",
+		"options": [
+			"Arc d'Eternum",
+			"Faux spectrale",
+			"Lame du roi déchu",
+			"Hache de guerre de Maître Yi"
+		],
+		"answer": "Arc d'Eternum"
+	},
+	{
+		"theme": "League of Legends",
+		"number": 37,
+		"question": "Quel champion peut se transformer en forme de loup ?",
+		"options": ["Elise", "Katarina", "Rumble", "Warwick"],
+		"answer": "Warwick"
+	},
+	{
+		"theme": "League of Legends",
+		"number": 38,
+		"question": "Quel dragon offre un bonus de régénération de vie aux champions proches ?",
+		"options": [
+			"Dragon des Montagnes",
+			"Dragon Océanique",
+			"Dragon Infernal",
+			"Dragon des Nuages"
+		],
+		"answer": "Dragon des Montagnes"
+	},
+	{
+		"theme": "League of Legends",
+		"number": 39,
+		"question": "Quel champion est connu pour sa capacité à créer des clones ?",
+		"options": ["Shaco", "Kassadin", "Zed", "Riven"],
+		"answer": "Shaco"
+	},
+	{
+		"theme": "League of Legends",
+		"number": 40,
+		"question": "Quel est le rôle principal de Garen ?",
+		"options": ["Top", "Mid", "ADC", "Support"],
+		"answer": "Top"
+	},
+	{
+		"theme": "League of Legends",
+		"number": 41,
+		"question": "Quel objet est utilisé pour infliger des dégâts supplémentaires aux cibles ayant peu de vie ?",
+		"options": [
+			"Lame du roi déchu",
+			"Danseur fantôme",
+			"Gage de Sterak",
+			"Morellonomicon"
+		],
+		"answer": "Lame du roi déchu"
+	},
+	{
+		"theme": "League of Legends",
+		"number": 42,
+		"question": "Quel champion peut se soigner en infligeant des dégâts ?",
+		"options": ["Aatrox", "Draven", "Mordekaiser", "Nasus"],
+		"answer": "Mordekaiser"
+	},
+	{
+		"theme": "League of Legends",
+		"number": 43,
+		"question": "Quel dragon offre un bonus de puissance aux champions ayant des sorts à cible unique ?",
+		"options": [
+			"Dragon Infernal",
+			"Dragon des Nuages",
+			"Dragon Océanique",
+			"Dragon des Montagnes"
+		],
+		"answer": "Dragon Infernal"
+	},
+	{
+		"theme": "League of Legends",
+		"number": 44,
+		"question": "Quel champion est surnommé 'Le Maître des Lames' ?",
+		"options": ["Zed", "Katarina", "Riven", "Akali"],
+		"answer": "Zed"
+	},
+	{
+		"theme": "League of Legends",
+		"number": 45,
+		"question": "Quel est le rôle principal de Soraka ?",
+		"options": ["Support", "ADC", "Tank", "Jungle"],
+		"answer": "Support"
+	},
+	{
+		"theme": "League of Legends",
+		"number": 46,
+		"question": "Quel objet est utilisé pour bloquer les dégâts d'un coup mortel ?",
+		"options": [
+			"Gage de Sterak",
+			"Coiffe de Rabadon",
+			"Bâton du Vide",
+			"Étreinte Démoniaque"
+		],
+		"answer": "Gage de Sterak"
+	},
+	{
+		"theme": "League of Legends",
+		"number": 47,
+		"question": "Quel champion peut se transformer en dragon ?",
+		"options": ["Shyvana", "Katarina", "Lissandra", "Rumble"],
+		"answer": "Shyvana"
+	},
+	{
+		"theme": "League of Legends",
+		"number": 48,
+		"question": "Quel dragon offre un bonus de vitesse d'attaque aux champions à distance ?",
+		"options": [
+			"Dragon des Montagnes",
+			"Dragon Infernal",
+			"Dragon Océanique",
+			"Dragon des Nuages"
+		],
+		"answer": "Dragon des Montagnes"
+	},
+	{
+		"theme": "League of Legends",
+		"number": 49,
+		"question": "Quel champion est connu pour sa capacité à contrôler les esprits ?",
+		"options": ["Yasuo", "Zed", "Kennen", "Lulu"],
+		"answer": "Lulu"
+	},
+	{
+		"theme": "League of Legends",
+		"number": 50,
+		"question": "Quel est le rôle principal de Riven ?",
+		"options": ["Top", "Mid", "ADC", "Support"],
+		"answer": "Top"
+	},
+	{
+		"theme": "League of Legends",
+		"number": 51,
+		"question": "Quel objet est utilisé pour augmenter les chances de coup critique ?",
+		"options": [
+			"Lame du roi déchu",
+			"Danseur fantôme",
+			"Gage de Sterak",
+			"Morellonomicon"
+		],
+		"answer": "Lame du roi déchu"
+	},
+	{
+		"theme": "League of Legends",
+		"number": 52,
+		"question": "Quel champion peut se soigner en infligeant des dégâts ?",
+		"options": ["Aatrox", "Draven", "Mordekaiser", "Nasus"],
+		"answer": "Aatrox"
+	},
+	{
+		"theme": "League of Legends",
+		"number": 53,
+		"question": "Quel dragon offre un bonus de puissance aux champions ayant des sorts à cible unique ?",
+		"options": [
+			"Dragon Infernal",
+			"Dragon des Nuages",
+			"Dragon Océanique",
+			"Dragon des Montagnes"
+		],
+		"answer": "Dragon des Nuages"
+	},
+	{
+		"theme": "League of Legends",
+		"number": 54,
+		"question": "Quel champion est surnommé 'Le Maître des Lames' ?",
+		"options": ["Zed", "Katarina", "Riven", "Akali"],
+		"answer": "Riven"
+	},
+	{
+		"theme": "League of Legends",
+		"number": 55,
+		"question": "Quel est le rôle principal de Soraka ?",
+		"options": ["Support", "ADC", "Tank", "Jungle"],
+		"answer": "Support"
+	},
+	{
+		"theme": "League of Legends",
+		"number": 56,
+		"question": "Quel objet est utilisé pour bloquer les dégâts d'un coup mortel ?",
+		"options": [
+			"Gage de Sterak",
+			"Coiffe de Rabadon",
+			"Bâton du Vide",
+			"Étreinte Démoniaque"
+		],
+		"answer": "Gage de Sterak"
+	},
+	{
+		"theme": "League of Legends",
+		"number": 57,
+		"question": "Quel champion peut se transformer en dragon ?",
+		"options": ["Shyvana", "Katarina", "Lissandra", "Rumble"],
+		"answer": "Shyvana"
+	},
+	{
+		"theme": "League of Legends",
+		"number": 58,
+		"question": "Quel dragon offre un bonus de vitesse d'attaque aux champions à distance ?",
+		"options": [
+			"Dragon des Montagnes",
+			"Dragon Infernal",
+			"Dragon Océanique",
+			"Dragon des Nuages"
+		],
+		"answer": "Dragon des Nuages"
+	},
+	{
+		"theme": "League of Legends",
+		"number": 59,
+		"question": "Quel champion est connu pour sa capacité à contrôler les esprits ?",
+		"options": ["Yasuo", "Zed", "Kennen", "Lulu"],
+		"answer": "Kennen"
+	},
+	{
+		"theme": "League of Legends",
+		"number": 60,
+		"question": "Quel est le rôle principal de Garen ?",
+		"options": ["Top", "Mid", "ADC", "Support"],
+		"answer": "Top"
+	},
+	{
+		"theme": "League of Legends",
+		"number": 61,
+		"question": "Quel objet est utilisé pour infliger des dégâts supplémentaires aux cibles ayant peu de vie ?",
+		"options": [
+			"Lame du roi déchu",
+			"Danseur fantôme",
+			"Gage de Sterak",
+			"Morellonomicon"
+		],
+		"answer": "Lame du roi déchu"
+	},
+	{
+		"theme": "League of Legends",
+		"number": 62,
+		"question": "Quel champion peut se soigner en infligeant des dégâts ?",
+		"options": ["Aatrox", "Draven", "Mordekaiser", "Nasus"],
+		"answer": "Mordekaiser"
+	},
+	{
+		"theme": "League of Legends",
+		"number": 63,
+		"question": "Quel dragon offre un bonus de puissance aux champions ayant des sorts à cible unique ?",
+		"options": [
+			"Dragon Infernal",
+			"Dragon des Nuages",
+			"Dragon Océanique",
+			"Dragon des Montagnes"
+		],
+		"answer": "Dragon des Montagnes"
+	},
+	{
+		"theme": "League of Legends",
+		"number": 64,
+		"question": "Quel champion est surnommé 'Le Maître des Lames' ?",
+		"options": ["Zed", "Katarina", "Riven", "Akali"],
+		"answer": "Akali"
+	},
+	{
+		"theme": "League of Legends",
+		"number": 65,
+		"question": "Quel est le rôle principal de Soraka ?",
+		"options": ["Support", "ADC", "Tank", "Jungle"],
+		"answer": "Support"
+	},
+	{
+		"theme": "League of Legends",
+		"number": 66,
+		"question": "Quel objet est utilisé pour bloquer les dégâts d'un coup mortel ?",
+		"options": [
+			"Gage de Sterak",
+			"Coiffe de Rabadon",
+			"Bâton du Vide",
+			"Étreinte Démoniaque"
+		],
+		"answer": "Gage de Sterak"
+	},
+	{
+		"theme": "League of Legends",
+		"number": 67,
+		"question": "Quel champion peut se transformer en dragon ?",
+		"options": ["Shyvana", "Katarina", "Lissandra", "Rumble"],
+		"answer": "Shyvana"
+	},
+	{
+		"theme": "League of Legends",
+		"number": 68,
+		"question": "Quel dragon offre un bonus de vitesse d'attaque aux champions à distance ?",
+		"options": [
+			"Dragon des Montagnes",
+			"Dragon Infernal",
+			"Dragon Océanique",
+			"Dragon des Nuages"
+		],
+		"answer": "Dragon des Montagnes"
+	},
+	{
+		"theme": "League of Legends",
+		"number": 69,
+		"question": "Quel champion est connu pour sa capacité à contrôler les esprits ?",
+		"options": ["Yasuo", "Zed", "Kennen", "Lulu"],
+		"answer": "Yasuo"
+	},
+	{
+		"theme": "League of Legends",
+		"number": 70,
+		"question": "Quel est le rôle principal de Garen ?",
+		"options": ["Top", "Mid", "ADC", "Support"],
+		"answer": "Top"
+	},
+	{
+		"theme": "League of Legends",
+		"number": 71,
+		"question": "Quel objet est utilisé pour infliger des dégâts supplémentaires aux cibles ayant peu de vie ?",
+		"options": [
+			"Lame du roi déchu",
+			"Danseur fantôme",
+			"Gage de Sterak",
+			"Morellonomicon"
+		],
+		"answer": "Lame du roi déchu"
+	},
+	{
+		"theme": "League of Legends",
+		"number": 72,
+		"question": "Quel champion peut se soigner en infligeant des dégâts ?",
+		"options": ["Aatrox", "Draven", "Mordekaiser", "Nasus"],
+		"answer": "Aatrox"
+	},
+	{
+		"theme": "League of Legends",
+		"number": 73,
+		"question": "Quel dragon offre un bonus de puissance aux champions ayant des sorts à cible unique ?",
+		"options": [
+			"Dragon Infernal",
+			"Dragon des Nuages",
+			"Dragon Océanique",
+			"Dragon des Montagnes"
+		],
+		"answer": "Dragon des Nuages"
+	},
+	{
+		"theme": "League of Legends",
+		"number": 74,
+		"question": "Quel champion est surnommé 'Le Maître des Lames' ?",
+		"options": ["Zed", "Katarina", "Riven", "Akali"],
+		"answer": "Zed"
+	},
+	{
+		"theme": "League of Legends",
+		"number": 75,
+		"question": "Quel est le rôle principal de Soraka ?",
+		"options": ["Support", "ADC", "Tank", "Jungle"],
+		"answer": "Support"
+	},
+	{
+		"theme": "League of Legends",
+		"number": 76,
+		"question": "Quel objet est utilisé pour bloquer les dégâts d'un coup mortel ?",
+		"options": [
+			"Gage de Sterak",
+			"Coiffe de Rabadon",
+			"Bâton du Vide",
+			"Étreinte Démoniaque"
+		],
+		"answer": "Gage de Sterak"
+	},
+	{
+		"theme": "League of Legends",
+		"number": 77,
+		"question": "Quel champion peut se transformer en dragon ?",
+		"options": ["Shyvana", "Katarina", "Lissandra", "Rumble"],
+		"answer": "Shyvana"
+	},
+	{
+		"theme": "League of Legends",
+		"number": 78,
+		"question": "Quel dragon offre un bonus de vitesse d'attaque aux champions à distance ?",
+		"options": [
+			"Dragon des Montagnes",
+			"Dragon Infernal",
+			"Dragon Océanique",
+			"Dragon des Nuages"
+		],
+		"answer": "Dragon des Montagnes"
+	},
+	{
+		"theme": "League of Legends",
+		"number": 79,
+		"question": "Quel champion est connu pour sa capacité à contrôler les esprits ?",
+		"options": ["Yasuo", "Zed", "Kennen", "Lulu"],
+		"answer": "Kennen"
+	},
+	{
+		"theme": "League of Legends",
+		"number": 80,
+		"question": "Quel est le rôle principal de Garen ?",
+		"options": ["Top", "Mid", "ADC", "Support"],
+		"answer": "Top"
+	},
+	{
+		"theme": "League of Legends",
+		"number": 81,
+		"question": "Quel objet est utilisé pour infliger des dégâts supplémentaires aux cibles ayant peu de vie ?",
+		"options": [
+			"Lame du roi déchu",
+			"Danseur fantôme",
+			"Gage de Sterak",
+			"Morellonomicon"
+		],
+		"answer": "Lame du roi déchu"
+	},
+	{
+		"theme": "League of Legends",
+		"number": 82,
+		"question": "Quel champion peut se soigner en infligeant des dégâts ?",
+		"options": ["Aatrox", "Draven", "Mordekaiser", "Nasus"],
+		"answer": "Mordekaiser"
+	},
+	{
+		"theme": "League of Legends",
+		"number": 83,
+		"question": "Quel dragon offre un bonus de puissance aux champions ayant des sorts à cible unique ?",
+		"options": [
+			"Dragon Infernal",
+			"Dragon des Nuages",
+			"Dragon Océanique",
+			"Dragon des Montagnes"
+		],
+		"answer": "Dragon des Montagnes"
+	},
+	{
+		"theme": "League of Legends",
+		"number": 84,
+		"question": "Quel champion est surnommé 'Le Maître des Lames' ?",
+		"options": ["Zed", "Katarina", "Riven", "Akali"],
+		"answer": "Akali"
+	},
+	{
+		"theme": "League of Legends",
+		"number": 85,
+		"question": "Quel est le rôle principal de Soraka ?",
+		"options": ["Support", "ADC", "Tank", "Jungle"],
+		"answer": "Support"
+	},
+	{
+		"theme": "League of Legends",
+		"number": 86,
+		"question": "Quel objet est utilisé pour bloquer les dégâts d'un coup mortel ?",
+		"options": [
+			"Gage de Sterak",
+			"Coiffe de Rabadon",
+			"Bâton du Vide",
+			"Étreinte Démoniaque"
+		],
+		"answer": "Gage de Sterak"
+	},
+	{
+		"theme": "League of Legends",
+		"number": 87,
+		"question": "Quel champion peut se transformer en dragon ?",
+		"options": ["Shyvana", "Katarina", "Lissandra", "Rumble"],
+		"answer": "Shyvana"
+	},
+	{
+		"theme": "League of Legends",
+		"number": 88,
+		"question": "Quel dragon offre un bonus de vitesse d'attaque aux champions à distance ?",
+		"options": [
+			"Dragon des Montagnes",
+			"Dragon Infernal",
+			"Dragon Océanique",
+			"Dragon des Nuages"
+		],
+		"answer": "Dragon des Montagnes"
+	},
+	{
+		"theme": "League of Legends",
+		"number": 89,
+		"question": "Quel champion est connu pour sa capacité à contrôler les esprits ?",
+		"options": ["Yasuo", "Zed", "Kennen", "Lulu"],
+		"answer": "Yasuo"
+	},
+	{
+		"theme": "League of Legends",
+		"number": 90,
+		"question": "Quel est le rôle principal de Garen ?",
+		"options": ["Top", "Mid", "ADC", "Support"],
+		"answer": "Top"
+	},
+	{
+		"theme": "League of Legends",
+		"number": 91,
+		"question": "Quel objet est utilisé pour infliger des dégâts supplémentaires aux cibles ayant peu de vie ?",
+		"options": [
+			"Lame du roi déchu",
+			"Danseur fantôme",
+			"Gage de Sterak",
+			"Morellonomicon"
+		],
+		"answer": "Lame du roi déchu"
+	},
+	{
+		"theme": "League of Legends",
+		"number": 92,
+		"question": "Quel champion peut se soigner en infligeant des dégâts ?",
+		"options": ["Aatrox", "Draven", "Mordekaiser", "Nasus"],
+		"answer": "Nasus"
+	},
+	{
+		"theme": "League of Legends",
+		"number": 93,
+		"question": "Quel dragon offre un bonus de puissance aux champions ayant des sorts à cible unique ?",
+		"options": [
+			"Dragon Infernal",
+			"Dragon des Nuages",
+			"Dragon Océanique",
+			"Dragon des Montagnes"
+		],
+		"answer": "Dragon des Nuages"
+	},
+	{
+		"theme": "League of Legends",
+		"number": 94,
+		"question": "Quel champion est surnommé 'Le Maître des Lames' ?",
+		"options": ["Zed", "Katarina", "Riven", "Akali"],
+		"answer": "Katarina"
+	},
+	{
+		"theme": "League of Legends",
+		"number": 95,
+		"question": "Quel est le rôle principal de Soraka ?",
+		"options": ["Support", "ADC", "Tank", "Jungle"],
+		"answer": "Support"
+	},
+	{
+		"theme": "League of Legends",
+		"number": 96,
+		"question": "Quel objet est utilisé pour bloquer les dégâts d'un coup mortel ?",
+		"options": [
+			"Gage de Sterak",
+			"Coiffe de Rabadon",
+			"Bâton du Vide",
+			"Étreinte Démoniaque"
+		],
+		"answer": "Gage de Sterak"
+	},
+	{
+		"theme": "League of Legends",
+		"number": 97,
+		"question": "Quel champion peut se transformer en dragon ?",
+		"options": ["Shyvana", "Katarina", "Lissandra", "Rumble"],
+		"answer": "Shyvana"
+	},
+	{
+		"theme": "League of Legends",
+		"number": 98,
+		"question": "Quel dragon offre un bonus de vitesse d'attaque aux champions à distance ?",
+		"options": [
+			"Dragon des Montagnes",
+			"Dragon Infernal",
+			"Dragon Océanique",
+			"Dragon des Nuages"
+		],
+		"answer": "Dragon des Montagnes"
+	},
+	{
+		"theme": "League of Legends",
+		"number": 99,
+		"question": "Quel champion est connu pour sa capacité à contrôler les esprits ?",
+		"options": ["Yasuo", "Zed", "Kennen", "Lulu"],
+		"answer": "Lulu"
+	},
+	{
+		"theme": "League of Legends",
+		"number": 100,
+		"question": "Quel est le rôle principal de Garen ?",
+		"options": ["Top", "Mid", "ADC", "Support"],
+		"answer": "Top"
+	}
+]
