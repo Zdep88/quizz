@@ -1,4 +1,4 @@
-const reponse = await fetch("./questions.json");
+const reponse = await fetch("./got.json");
 const quizz = await reponse.json();
 
 const app = {
