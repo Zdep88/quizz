@@ -1,4 +1,4 @@
-const reponse = await fetch("./hogwart.json");
+const reponse = await fetch("./simon.json");
 const quizz = await reponse.json();
 
 const app = {

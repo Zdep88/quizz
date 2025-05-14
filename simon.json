@@ -1,0 +1,697 @@
+[
+	{
+		"theme": "Maisons",
+		"number": 1,
+		"question": "Quel est le mot de passe pour entrer dans la salle commune de Gryffondor dans le premier livre ?",
+		"options": [
+			"Caput Draconis",
+			"Alohomora",
+			"Fortuna Major",
+			"Mimbulus Mimbletonia"
+		],
+		"answer": "Caput Draconis"
+	},
+	{
+		"theme": "Maisons",
+		"number": 2,
+		"question": "Quel fantôme est associé à la maison Serdaigle ?",
+		"options": [
+			"La Dame Grise",
+			"Nick Quasi-Sans-Tête",
+			"Le Moine Gras",
+			"Le Baron Sanglant"
+		],
+		"answer": "La Dame Grise"
+	},
+	{
+		"theme": "Maisons",
+		"number": 3,
+		"question": "Quel objet est utilisé pour sélectionner les élèves dans les maisons de Poudlard ?",
+		"options": [
+			"Le Choixpeau magique",
+			"La Pensine",
+			"Le Miroir du Riséd",
+			"La Carte du Maraudeur"
+		],
+		"answer": "Le Choixpeau magique"
+	},
+	{
+		"theme": "Maisons",
+		"number": 4,
+		"question": "Quelle maison a été fondée par Godric Gryffondor ?",
+		"options": ["Gryffondor", "Serpentard", "Poufsouffle", "Serdaigle"],
+		"answer": "Gryffondor"
+	},
+	{
+		"theme": "Maisons",
+		"number": 5,
+		"question": "Quel est le symbole de la maison Poufsouffle ?",
+		"options": ["Un blaireau", "Un serpent", "Un lion", "Un aigle"],
+		"answer": "Un blaireau"
+	},
+	{
+		"theme": "Maisons",
+		"number": 6,
+		"question": "Quelle maison valorise l'intelligence et la sagesse ?",
+		"options": ["Serdaigle", "Gryffondor", "Poufsouffle", "Serpentard"],
+		"answer": "Serdaigle"
+	},
+	{
+		"theme": "Maisons",
+		"number": 7,
+		"question": "Quel est le fantôme de la maison Gryffondor ?",
+		"options": [
+			"Nick Quasi-Sans-Tête",
+			"Le Baron Sanglant",
+			"La Dame Grise",
+			"Le Moine Gras"
+		],
+		"answer": "Nick Quasi-Sans-Tête"
+	},
+	{
+		"theme": "Maisons",
+		"number": 8,
+		"question": "Quelle maison a été fondée par Helga Poufsouffle ?",
+		"options": ["Poufsouffle", "Serdaigle", "Gryffondor", "Serpentard"],
+		"answer": "Poufsouffle"
+	},
+	{
+		"theme": "Maisons",
+		"number": 9,
+		"question": "Quelle maison a pour devise 'Toujours loyal' ?",
+		"options": ["Poufsouffle", "Serdaigle", "Gryffondor", "Serpentard"],
+		"answer": "Poufsouffle"
+	},
+	{
+		"theme": "Maisons",
+		"number": 10,
+		"question": "Quel est le mot de passe pour entrer dans la salle commune de Serpentard dans le deuxième livre ?",
+		"options": [
+			"Sang-Pur",
+			"Caput Draconis",
+			"Fortuna Major",
+			"Mimbulus Mimbletonia"
+		],
+		"answer": "Sang-Pur"
+	},
+	{
+		"theme": "Personnages",
+		"number": 1,
+		"question": "Quel est le deuxième prénom de Hermione Granger ?",
+		"options": ["Jean", "Marie", "Lily", "Rose"],
+		"answer": "Jean"
+	},
+	{
+		"theme": "Personnages",
+		"number": 2,
+		"question": "Quel est le patronus de Luna Lovegood ?",
+		"options": ["Un lièvre", "Un cheval", "Un renard", "Un chat"],
+		"answer": "Un lièvre"
+	},
+	{
+		"theme": "Personnages",
+		"number": 3,
+		"question": "Quel est le nom complet de Voldemort ?",
+		"options": [
+			"Tom Elvis Jedusor",
+			"Tom Marvolo Riddle",
+			"Tom Sorvolo Riddle",
+			"Tom Jedusor"
+		],
+		"answer": "Tom Elvis Jedusor"
+	},
+	{
+		"theme": "Personnages",
+		"number": 4,
+		"question": "Quel est le nom de jeune fille de la mère de Harry Potter ?",
+		"options": ["Evans", "Potter", "Black", "Dursley"],
+		"answer": "Evans"
+	},
+	{
+		"theme": "Personnages",
+		"number": 5,
+		"question": "Quel est le prénom du père de Drago Malefoy ?",
+		"options": ["Lucius", "Severus", "Narcisse", "Abraxas"],
+		"answer": "Lucius"
+	},
+	{
+		"theme": "Personnages",
+		"number": 6,
+		"question": "Quel est le métier de Percy Weasley après Poudlard ?",
+		"options": [
+			"Employé au Ministère de la Magie",
+			"Auror",
+			"Professeur",
+			"Magizoologiste"
+		],
+		"answer": "Employé au Ministère de la Magie"
+	},
+	{
+		"theme": "Personnages",
+		"number": 7,
+		"question": "Quel est le prénom de la mère de Neville Londubat ?",
+		"options": ["Alice", "Augusta", "Amelia", "Andromeda"],
+		"answer": "Alice"
+	},
+	{
+		"theme": "Personnages",
+		"number": 8,
+		"question": "Quel personnage est connu pour avoir créé la Carte du Maraudeur ?",
+		"options": [
+			"Remus Lupin",
+			"James Potter",
+			"Sirius Black",
+			"Peter Pettigrow"
+		],
+		"answer": "James Potter"
+	},
+	{
+		"theme": "Personnages",
+		"number": 9,
+		"question": "Quel est le prénom de la tante de Harry Potter ?",
+		"options": ["Pétunia", "Lily", "Marge", "Molly"],
+		"answer": "Pétunia"
+	},
+	{
+		"theme": "Personnages",
+		"number": 10,
+		"question": "Quel est le nom de l'elfe de maison des Black ?",
+		"options": ["Kreattur", "Dobby", "Winky", "Hokey"],
+		"answer": "Kreattur"
+	},
+	{
+		"theme": "Sortilèges",
+		"number": 1,
+		"question": "Quel sort est utilisé pour conjurer un Patronus ?",
+		"options": ["Expecto Patronum", "Expelliarmus", "Lumos", "Protego"],
+		"answer": "Expecto Patronum"
+	},
+	{
+		"theme": "Sortilèges",
+		"number": 2,
+		"question": "Quel sort est utilisé pour réparer des objets cassés ?",
+		"options": ["Reparo", "Accio", "Alohomora", "Lumos"],
+		"answer": "Reparo"
+	},
+	{
+		"theme": "Sortilèges",
+		"number": 3,
+		"question": "Quel sort est utilisé pour ouvrir des portes verrouillées ?",
+		"options": ["Alohomora", "Accio", "Lumos", "Nox"],
+		"answer": "Alohomora"
+	},
+	{
+		"theme": "Sortilèges",
+		"number": 4,
+		"question": "Quel sort est utilisé pour invoquer un objet ?",
+		"options": ["Accio", "Wingardium Leviosa", "Expelliarmus", "Protego"],
+		"answer": "Accio"
+	},
+	{
+		"theme": "Sortilèges",
+		"number": 5,
+		"question": "Quel sort est utilisé pour stupéfier un adversaire ?",
+		"options": ["Stupefix", "Expelliarmus", "Avada Kedavra", "Crucio"],
+		"answer": "Stupefix"
+	},
+	{
+		"theme": "Sortilèges",
+		"number": 6,
+		"question": "Quel sort est utilisé pour torturer quelqu'un ?",
+		"options": ["Crucio", "Avada Kedavra", "Imperio", "Stupefix"],
+		"answer": "Crucio"
+	},
+	{
+		"theme": "Sortilèges",
+		"number": 7,
+		"question": "Quel sort est utilisé pour contrôler quelqu'un ?",
+		"options": ["Imperio", "Crucio", "Avada Kedavra", "Stupefix"],
+		"answer": "Imperio"
+	},
+	{
+		"theme": "Sortilèges",
+		"number": 8,
+		"question": "Quel sort est utilisé pour éclairer la baguette ?",
+		"options": ["Lumos", "Nox", "Accio", "Alohomora"],
+		"answer": "Lumos"
+	},
+	{
+		"theme": "Sortilèges",
+		"number": 9,
+		"question": "Quel sort est utilisé pour éteindre la lumière de la baguette ?",
+		"options": ["Nox", "Lumos", "Accio", "Alohomora"],
+		"answer": "Nox"
+	},
+	{
+		"theme": "Sortilèges",
+		"number": 10,
+		"question": "Quel sort est utilisé pour désarmer un adversaire ?",
+		"options": ["Expelliarmus", "Stupefix", "Avada Kedavra", "Accio"],
+		"answer": "Expelliarmus"
+	},
+	{
+		"theme": "Objets magiques",
+		"number": 1,
+		"question": "Quel objet est utilisé pour voir les souvenirs ?",
+		"options": [
+			"La Pensine",
+			"Le Miroir du Riséd",
+			"La Carte du Maraudeur",
+			"Le Retourneur de Temps"
+		],
+		"answer": "La Pensine"
+	},
+	{
+		"theme": "Objets magiques",
+		"number": 2,
+		"question": "Quel objet est utilisé pour rendre quelqu'un invisible ?",
+		"options": [
+			"La Cape d'Invisibilité",
+			"Le Retourneur de Temps",
+			"Le Miroir du Riséd",
+			"La Pensine"
+		],
+		"answer": "La Cape d'Invisibilité"
+	},
+	{
+		"theme": "Objets magiques",
+		"number": 3,
+		"question": "Quel objet est une des Reliques de la Mort ?",
+		"options": [
+			"La Baguette de Sureau",
+			"La Pensine",
+			"Le Retourneur de Temps",
+			"Le Miroir du Riséd"
+		],
+		"answer": "La Baguette de Sureau"
+	},
+	{
+		"theme": "Objets magiques",
+		"number": 4,
+		"question": "Quel objet permet de voyager dans le temps ?",
+		"options": [
+			"Le Retourneur de Temps",
+			"La Pensine",
+			"La Cape d'Invisibilité",
+			"Le Miroir du Riséd"
+		],
+		"answer": "Le Retourneur de Temps"
+	},
+	{
+		"theme": "Objets magiques",
+		"number": 5,
+		"question": "Quel objet montre les désirs les plus profonds de celui qui le regarde ?",
+		"options": [
+			"Le Miroir du Riséd",
+			"La Pensine",
+			"La Cape d'Invisibilité",
+			"Le Retourneur de Temps"
+		],
+		"answer": "Le Miroir du Riséd"
+	},
+	{
+		"theme": "Objets magiques",
+		"number": 6,
+		"question": "Quel objet est utilisé pour stocker des fragments d'âme ?",
+		"options": [
+			"Un Horcruxe",
+			"La Pensine",
+			"Le Retourneur de Temps",
+			"Le Miroir du Riséd"
+		],
+		"answer": "Un Horcruxe"
+	},
+	{
+		"theme": "Objets magiques",
+		"number": 7,
+		"question": "Quel objet est utilisé pour communiquer entre deux lieux ?",
+		"options": [
+			"Le Miroir à Double Sens",
+			"La Pensine",
+			"Le Retourneur de Temps",
+			"La Cape d'Invisibilité"
+		],
+		"answer": "Le Miroir à Double Sens"
+	},
+	{
+		"theme": "Objets magiques",
+		"number": 8,
+		"question": "Quel objet est utilisé pour transporter un groupe de personnes instantanément ?",
+		"options": [
+			"Un Portoloin",
+			"Le Retourneur de Temps",
+			"La Pensine",
+			"Le Miroir du Riséd"
+		],
+		"answer": "Un Portoloin"
+	},
+	{
+		"theme": "Objets magiques",
+		"number": 9,
+		"question": "Quel objet est utilisé pour éteindre les lumières à distance ?",
+		"options": [
+			"Le Deluminateur",
+			"La Pensine",
+			"Le Retourneur de Temps",
+			"Le Miroir du Riséd"
+		],
+		"answer": "Le Deluminateur"
+	},
+	{
+		"theme": "Objets magiques",
+		"number": 10,
+		"question": "Quel objet est utilisé pour détecter les mensonges ?",
+		"options": [
+			"Le Véritaserum",
+			"Le Retourneur de Temps",
+			"La Pensine",
+			"Le Miroir du Riséd"
+		],
+		"answer": "Le Véritaserum"
+	},
+	{
+		"theme": "Lieux",
+		"number": 1,
+		"question": "Quel est le nom du village proche de Poudlard ?",
+		"options": [
+			"Pré-au-Lard",
+			"Godric's Hollow",
+			"Little Hangleton",
+			"Privet Drive"
+		],
+		"answer": "Pré-au-Lard"
+	},
+	{
+		"theme": "Lieux",
+		"number": 2,
+		"question": "Quel est le nom de la banque des sorciers ?",
+		"options": ["Gringotts", "Ollivander", "Weasley & Weasley", "Honeydukes"],
+		"answer": "Gringotts"
+	},
+	{
+		"theme": "Lieux",
+		"number": 3,
+		"question": "Quel est le nom de la forêt interdite près de Poudlard ?",
+		"options": [
+			"La Forêt Interdite",
+			"La Forêt de Dean",
+			"La Forêt Noire",
+			"La Forêt des Ombres"
+		],
+		"answer": "La Forêt Interdite"
+	},
+	{
+		"theme": "Lieux",
+		"number": 4,
+		"question": "Quel est le nom de la maison des Malefoy ?",
+		"options": [
+			"Le Manoir des Malefoy",
+			"Godric's Hollow",
+			"Little Hangleton",
+			"Privet Drive"
+		],
+		"answer": "Le Manoir des Malefoy"
+	},
+	{
+		"theme": "Lieux",
+		"number": 5,
+		"question": "Quel est le nom de la maison où Harry a grandi ?",
+		"options": [
+			"Privet Drive",
+			"Godric's Hollow",
+			"Little Hangleton",
+			"Pré-au-Lard"
+		],
+		"answer": "Privet Drive"
+	},
+	{
+		"theme": "Lieux",
+		"number": 6,
+		"question": "Quel est le nom du cimetière où Voldemort revient à la vie ?",
+		"options": [
+			"Little Hangleton",
+			"Godric's Hollow",
+			"Pré-au-Lard",
+			"Privet Drive"
+		],
+		"answer": "Little Hangleton"
+	},
+	{
+		"theme": "Lieux",
+		"number": 7,
+		"question": "Quel est le nom de la cabane où Hagrid vit ?",
+		"options": [
+			"La Cabane de Hagrid",
+			"La Forêt Interdite",
+			"Le Terrier",
+			"Le Manoir des Malefoy"
+		],
+		"answer": "La Cabane de Hagrid"
+	},
+	{
+		"theme": "Lieux",
+		"number": 8,
+		"question": "Quel est le nom de la boutique où Harry achète sa baguette ?",
+		"options": ["Ollivander", "Gringotts", "Honeydukes", "Weasley & Weasley"],
+		"answer": "Ollivander"
+	},
+	{
+		"theme": "Lieux",
+		"number": 9,
+		"question": "Quel est le nom de la salle secrète utilisée par les élèves pour s'entraîner ?",
+		"options": [
+			"La Salle sur Demande",
+			"La Pensine",
+			"La Chambre des Secrets",
+			"Le Bureau de Dumbledore"
+		],
+		"answer": "La Salle sur Demande"
+	},
+	{
+		"theme": "Lieux",
+		"number": 10,
+		"question": "Quel est le nom de la boutique de farces et attrapes des jumeaux Weasley ?",
+		"options": ["Weasley & Weasley", "Honeydukes", "Ollivander", "Gringotts"],
+		"answer": "Weasley & Weasley"
+	},
+	{
+		"theme": "Potions",
+		"number": 1,
+		"question": "Quelle potion est connue pour révéler la vérité ?",
+		"options": ["Véritaserum", "Amortentia", "Felix Felicis", "Polynectar"],
+		"answer": "Véritaserum"
+	},
+	{
+		"theme": "Potions",
+		"number": 2,
+		"question": "Quelle potion est utilisée pour changer d'apparence ?",
+		"options": ["Polynectar", "Felix Felicis", "Amortentia", "Véritaserum"],
+		"answer": "Polynectar"
+	},
+	{
+		"theme": "Potions",
+		"number": 3,
+		"question": "Quelle potion est surnommée 'Chance liquide' ?",
+		"options": ["Felix Felicis", "Amortentia", "Véritaserum", "Polynectar"],
+		"answer": "Felix Felicis"
+	},
+	{
+		"theme": "Potions",
+		"number": 4,
+		"question": "Quelle potion est utilisée pour soigner les blessures ?",
+		"options": [
+			"Potion de Poussos",
+			"Felix Felicis",
+			"Amortentia",
+			"Polynectar"
+		],
+		"answer": "Potion de Poussos"
+	},
+	{
+		"theme": "Potions",
+		"number": 5,
+		"question": "Quelle potion est utilisée pour provoquer un sommeil profond ?",
+		"options": [
+			"Draught of Living Death",
+			"Felix Felicis",
+			"Amortentia",
+			"Polynectar"
+		],
+		"answer": "Draught of Living Death"
+	},
+	{
+		"theme": "Potions",
+		"number": 6,
+		"question": "Quelle potion est utilisée pour guérir les os cassés ?",
+		"options": ["Poussos", "Felix Felicis", "Amortentia", "Polynectar"],
+		"answer": "Poussos"
+	},
+	{
+		"theme": "Potions",
+		"number": 7,
+		"question": "Quelle potion est utilisée pour détecter les poisons ?",
+		"options": [
+			"Potion de Détection",
+			"Felix Felicis",
+			"Amortentia",
+			"Polynectar"
+		],
+		"answer": "Potion de Détection"
+	},
+	{
+		"theme": "Potions",
+		"number": 8,
+		"question": "Quelle potion est utilisée pour amplifier la force physique ?",
+		"options": ["Potion de Force", "Felix Felicis", "Amortentia", "Polynectar"],
+		"answer": "Potion de Force"
+	},
+	{
+		"theme": "Potions",
+		"number": 9,
+		"question": "Quelle potion est utilisée pour respirer sous l'eau ?",
+		"options": [
+			"Potion de Branchiflore",
+			"Felix Felicis",
+			"Amortentia",
+			"Polynectar"
+		],
+		"answer": "Potion de Branchiflore"
+	},
+	{
+		"theme": "Potions",
+		"number": 10,
+		"question": "Quelle potion est utilisée pour provoquer une transformation animale ?",
+		"options": ["Potion Animagus", "Felix Felicis", "Amortentia", "Polynectar"],
+		"answer": "Potion Animagus"
+	},
+	{
+		"theme": "Créatures magiques",
+		"number": 1,
+		"question": "Quelle créature est connue pour son chant qui provoque la mort ?",
+		"options": ["Banshee", "Sombral", "Hippogriffe", "Acromantula"],
+		"answer": "Banshee"
+	},
+	{
+		"theme": "Créatures magiques",
+		"number": 2,
+		"question": "Quelle créature est utilisée pour tirer les carrosses de Poudlard ?",
+		"options": ["Sombral", "Hippogriffe", "Dragon", "Acromantula"],
+		"answer": "Sombral"
+	},
+	{
+		"theme": "Créatures magiques",
+		"number": 3,
+		"question": "Quelle créature est Buck l'Hippogriffe ?",
+		"options": ["Hippogriffe", "Sombral", "Dragon", "Acromantula"],
+		"answer": "Hippogriffe"
+	},
+	{
+		"theme": "Créatures magiques",
+		"number": 4,
+		"question": "Quelle créature est Aragog ?",
+		"options": ["Acromantula", "Dragon", "Sombral", "Hippogriffe"],
+		"answer": "Acromantula"
+	},
+	{
+		"theme": "Créatures magiques",
+		"number": 5,
+		"question": "Quelle créature est Fumseck ?",
+		"options": ["Phénix", "Dragon", "Sombral", "Hippogriffe"],
+		"answer": "Phénix"
+	},
+	{
+		"theme": "Créatures magiques",
+		"number": 6,
+		"question": "Quelle créature est utilisée pour envoyer du courrier dans le monde des sorciers ?",
+		"options": ["Hibou", "Sombral", "Dragon", "Hippogriffe"],
+		"answer": "Hibou"
+	},
+	{
+		"theme": "Créatures magiques",
+		"number": 7,
+		"question": "Quelle créature est utilisée pour garder les coffres de Gringotts ?",
+		"options": ["Gobelin", "Dragon", "Sombral", "Hippogriffe"],
+		"answer": "Gobelin"
+	},
+	{
+		"theme": "Créatures magiques",
+		"number": 8,
+		"question": "Quelle créature est Norbert ?",
+		"options": ["Dragon", "Hippogriffe", "Sombral", "Acromantula"],
+		"answer": "Dragon"
+	},
+	{
+		"theme": "Créatures magiques",
+		"number": 9,
+		"question": "Quelle créature est Nagini ?",
+		"options": ["Serpent", "Dragon", "Sombral", "Acromantula"],
+		"answer": "Serpent"
+	},
+	{
+		"theme": "Créatures magiques",
+		"number": 10,
+		"question": "Quelle créature est Fluffy ?",
+		"options": ["Chien à trois têtes", "Dragon", "Sombral", "Hippogriffe"],
+		"answer": "Chien à trois têtes"
+	},
+	{
+		"theme": "Événements historiques",
+		"number": 1,
+		"question": "Quel événement a conduit à la création de l'Ordre du Phénix ?",
+		"options": [
+			"La première montée de Voldemort",
+			"La Bataille de Poudlard",
+			"La création des Horcruxes",
+			"La mort de Lily et James Potter"
+		],
+		"answer": "La première montée de Voldemort"
+	},
+	{
+		"theme": "Événements historiques",
+		"number": 2,
+		"question": "Quel événement a marqué la fin de la première guerre des sorciers ?",
+		"options": [
+			"La chute de Voldemort",
+			"La Bataille de Poudlard",
+			"La destruction des Horcruxes",
+			"La création de l'Ordre du Phénix"
+		],
+		"answer": "La chute de Voldemort"
+	},
+	{
+		"theme": "Événements historiques",
+		"number": 3,
+		"question": "Quel événement a conduit à la création des Reliques de la Mort ?",
+		"options": [
+			"La légende des trois frères",
+			"La montée de Grindelwald",
+			"La création des Horcruxes",
+			"La Bataille de Poudlard"
+		],
+		"answer": "La légende des trois frères"
+	},
+	{
+		"theme": "Événements historiques",
+		"number": 4,
+		"question": "Quel événement a conduit à la création de la Chambre des Secrets ?",
+		"options": [
+			"La fondation de Poudlard",
+			"La montée de Voldemort",
+			"La mort de Mimi Geignarde",
+			"La création des Horcruxes"
+		],
+		"answer": "La fondation de Poudlard"
+	},
+	{
+		"theme": "Événements historiques",
+		"number": 5,
+		"question": "Quel événement a conduit à la mort de Sirius Black ?",
+		"options": [
+			"La bataille au Département des Mystères",
+			"La Bataille de Poudlard",
+			"La montée de Voldemort",
+			"La destruction des Horcruxes"
+		],
+		"answer": "La bataille au Département des Mystères"
+	}
+]
