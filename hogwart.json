@@ -1,332 +1,992 @@
 [
 	{
-		"theme": "Maisons",
+		"theme": "Harry Potter",
 		"number": 1,
-		"question": "Quelle maison de Poudlard a pour emblème un lion ?",
-		"options": ["Gryffondor", "Serpentard", "Poufsouffle", "Serdaigle"],
-		"answer": "Gryffondor"
+		"question": "Quel est le prénom complet d'Albus Dumbledore ?",
+		"options": [
+			"Albus Percival Brian",
+			"Albus Severus Minerva",
+			"Albus James Remus",
+			"Albus Rubeus Sirius"
+		],
+		"answer": "Albus Percival Brian"
 	},
 	{
-		"theme": "Maisons",
+		"theme": "Harry Potter",
 		"number": 2,
-		"question": "Quelle maison de Poudlard valorise le courage et la bravoure ?",
-		"options": ["Gryffondor", "Serpentard", "Poufsouffle", "Serdaigle"],
-		"answer": "Gryffondor"
+		"question": "Quelle est la dernière pièce protégeant la Pierre Philosophale dans le premier livre ?",
+		"options": [
+			"Le Miroir de Riséd",
+			"La Trappe du Chien",
+			"La Salle des Potions",
+			"L'Échiquier Géant"
+		],
+		"answer": "Le Miroir de Riséd"
 	},
 	{
-		"theme": "Maisons",
+		"theme": "Harry Potter",
 		"number": 3,
-		"question": "Quelle maison de Poudlard a pour emblème un serpent ?",
-		"options": ["Serpentard", "Gryffondor", "Poufsouffle", "Serdaigle"],
-		"answer": "Serpentard"
+		"question": "Combien y a-t-il de Horcruxes à la fin de la saga ?",
+		"options": ["6", "7", "8", "5"],
+		"answer": "7"
 	},
 	{
-		"theme": "Maisons",
+		"theme": "Harry Potter",
 		"number": 4,
-		"question": "Quelle maison de Poudlard valorise la ruse et l'ambition ?",
-		"options": ["Serpentard", "Gryffondor", "Poufsouffle", "Serdaigle"],
-		"answer": "Serpentard"
+		"question": "Quel sortilège est utilisé pour ouvrir la Chambre des Secrets ?",
+		"options": ["Oculus Reparo", "Alohomora", "Ombrage", "Ormisardio"],
+		"answer": "Ormisardio"
 	},
 	{
-		"theme": "Maisons",
+		"theme": "Harry Potter",
 		"number": 5,
-		"question": "Quelle maison de Poudlard a pour emblème un blaireau ?",
-		"options": ["Poufsouffle", "Gryffondor", "Serpentard", "Serdaigle"],
-		"answer": "Poufsouffle"
+		"question": "Quelle est la particularité du Patronus de Luna Lovegood ?",
+		"options": ["Un lièvre", "Un phénix", "Un loup", "Un chat"],
+		"answer": "Un lièvre"
 	},
 	{
-		"theme": "Maisons",
+		"theme": "Harry Potter",
 		"number": 6,
-		"question": "Quelle maison de Poudlard valorise la loyauté et la patience ?",
-		"options": ["Poufsouffle", "Gryffondor", "Serpentard", "Serdaigle"],
-		"answer": "Poufsouffle"
+		"question": "Qui a écrit « L'Histoire des Moldus » ?",
+		"options": [
+			"Bathilda Tourdesac",
+			"Wilhelmina Gripsec",
+			"Emeric Gobe-Enclume",
+			"Xenophilius Lovegood"
+		],
+		"answer": "Wilhelmina Gripsec"
 	},
 	{
-		"theme": "Maisons",
+		"theme": "Harry Potter",
 		"number": 7,
-		"question": "Quelle maison de Poudlard a pour emblème un aigle ?",
-		"options": ["Serdaigle", "Gryffondor", "Serpentard", "Poufsouffle"],
-		"answer": "Serdaigle"
+		"question": "Quel ingrédient NE fait PAS partie de la Potion Polynectar ?",
+		"options": [
+			"Bave de Limace",
+			"Sang de Serpent",
+			"Cheveu de la personne imitée",
+			"Mue de Boomslang"
+		],
+		"answer": "Sang de Serpent"
 	},
 	{
-		"theme": "Maisons",
+		"theme": "Harry Potter",
 		"number": 8,
-		"question": "Quelle maison de Poudlard valorise l'intelligence et la sagesse ?",
-		"options": ["Serdaigle", "Gryffondor", "Serpentard", "Poufsouffle"],
-		"answer": "Serdaigle"
+		"question": "Quelle créature attaque Harry lors du Tournoi des Trois Sorciers ?",
+		"options": ["Détraqueur", "Sombrals", "Dragon", "Acromentule"],
+		"answer": "Dragon"
 	},
 	{
-		"theme": "Maisons",
+		"theme": "Harry Potter",
 		"number": 9,
-		"question": "Quelle maison de Poudlard a été fondée par Helga Poufsouffle ?",
-		"options": ["Poufsouffle", "Gryffondor", "Serpentard", "Serdaigle"],
-		"answer": "Poufsouffle"
+		"question": "Quel est le nom complet de Voldemort ?",
+		"options": [
+			"Tom Elvis Jedusor",
+			"Tom Marvolo Riddle",
+			"Tom Salazar Serpentard",
+			"Tom Grindelwald Gaunt"
+		],
+		"answer": "Tom Marvolo Riddle"
 	},
 	{
-		"theme": "Maisons",
+		"theme": "Harry Potter",
 		"number": 10,
-		"question": "Quelle maison de Poudlard a été fondée par Rowena Serdaigle ?",
-		"options": ["Serdaigle", "Gryffondor", "Serpentard", "Poufsouffle"],
-		"answer": "Serdaigle"
-	},
-	{
-		"theme": "Personnages",
-		"number": 1,
-		"question": "Quel personnage est connu comme 'Celui qui a survécu' ?",
+		"question": "Quelle est la date exacte de la mort de Lily et James Potter ?",
 		"options": [
-			"Harry Potter",
-			"Ron Weasley",
-			"Hermione Granger",
-			"Neville Londubat"
+			"31 octobre 1981",
+			"31 juillet 1980",
+			"24 décembre 1981",
+			"2 septembre 1982"
 		],
-		"answer": "Harry Potter"
+		"answer": "31 octobre 1981"
 	},
 	{
-		"theme": "Personnages",
-		"number": 2,
-		"question": "Qui est le directeur de Poudlard pendant la majorité de la série ?",
+		"theme": "Harry Potter",
+		"number": 11,
+		"question": "Qui est l'auteur du livre « Les Contes de Beedle le Barde » ?",
 		"options": [
+			"Godric Gryffondor",
 			"Albus Dumbledore",
-			"Severus Rogue",
-			"Minerva McGonagall",
-			"Dolores Ombrage"
+			"Beedle le Barde",
+			"Elfric l'Irascible"
 		],
-		"answer": "Albus Dumbledore"
+		"answer": "Beedle le Barde"
 	},
 	{
-		"theme": "Personnages",
-		"number": 3,
-		"question": "Quel personnage est le meilleur ami de Harry Potter ?",
+		"theme": "Harry Potter",
+		"number": 12,
+		"question": "Quelle est la première phrase inscrite sur la pierre tombale de Dumbledore ?",
 		"options": [
-			"Ron Weasley",
-			"Drago Malefoy",
-			"Neville Londubat",
-			"Cedric Diggory"
+			"« La dernière et la plus grande victoire est de se vaincre soi-même »",
+			"« La vérité est un bien précieux »",
+			"« La lumière dans les ténèbres »",
+			"« À la vie, à la mort »"
 		],
-		"answer": "Ron Weasley"
+		"answer": "« La dernière et la plus grande victoire est de se vaincre soi-même »"
 	},
 	{
-		"theme": "Personnages",
-		"number": 4,
-		"question": "Quel personnage est connu pour son intelligence exceptionnelle ?",
+		"theme": "Harry Potter",
+		"number": 13,
+		"question": "Quel sort utilise Hermione pour libérer Dobby ?",
 		"options": [
+			"Wingardium Leviosa",
+			"Accio",
+			"Petrificus Totalus",
+			"Confringo"
+		],
+		"answer": "Petrificus Totalus"
+	},
+	{
+		"theme": "Harry Potter",
+		"number": 14,
+		"question": "Quelle est la signature magique de Gilderoy Lockhart ?",
+		"options": [
+			"Un phénix",
+			"Une étoile à 5 branches",
+			"Un papillon",
+			"Un soleil"
+		],
+		"answer": "Une étoile à 5 branches"
+	},
+	{
+		"theme": "Harry Potter",
+		"number": 15,
+		"question": "Quel objet magique est associé à la famille Black ?",
+		"options": [
+			"Le Miroir du Riséd",
+			"Le Médaillon de Serpentard",
+			"La Boussole d'Or",
+			"La Tasse de Hufflepuff"
+		],
+		"answer": "Le Médaillon de Serpentard"
+	},
+	{
+		"theme": "Harry Potter",
+		"number": 16,
+		"question": "Quelle est la particularité du Niffleur ?",
+		"options": [
+			"Il peut voler",
+			"Il est attiré par les choses brillantes",
+			"Il crache du feu",
+			"Il devient invisible"
+		],
+		"answer": "Il est attiré par les choses brillantes"
+	},
+	{
+		"theme": "Harry Potter",
+		"number": 17,
+		"question": "Qui a fondé la ville de Pré-au-Lard ?",
+		"options": [
+			"Hengist de Woodcroft",
+			"Godric Gryffondor",
+			"Helga Poufsouffle",
+			"Boris le Bourru"
+		],
+		"answer": "Hengist de Woodcroft"
+	},
+	{
+		"theme": "Harry Potter",
+		"number": 18,
+		"question": "Quel est le nom du chat d'Argus Rusard ?",
+		"options": ["Pattenrond", "Miss Teigne", "Crookshanks", "Norbert"],
+		"answer": "Miss Teigne"
+	},
+	{
+		"theme": "Harry Potter",
+		"number": 19,
+		"question": "Quelle est la composition du cœur de la baguette de Hermione ?",
+		"options": [
+			"Plume de phénix",
+			"Poil de licorne",
+			"Viscère de dragon",
+			"Cheveu de Veela"
+		],
+		"answer": "Poil de licorne"
+	},
+	{
+		"theme": "Harry Potter",
+		"number": 20,
+		"question": "Qui a inventé le Sortilège de l'Entrave ?",
+		"options": ["Merlin", "Cliodna", "Morgane", "Hassan le Noir"],
+		"answer": "Hassan le Noir"
+	},
+	{
+		"theme": "Harry Potter",
+		"number": 21,
+		"question": "Quelle invention est attribuée à Ignatia Wildsmith sur sa carte de Chocogrenouille ?",
+		"options": [
+			"La Poudre de cheminette",
+			"Le Sortilège Patronus",
+			"La Cape d'invisibilité",
+			"Le Miroir de Riséd"
+		],
+		"answer": "La Poudre de cheminette"
+	},
+	{
+		"theme": "Harry Potter",
+		"number": 22,
+		"question": "Qui est la première sorcière à avoir traversé l'Atlantique sur un balai, selon les cartes de Chocogrenouille ?",
+		"options": [
+			"Jocunda Sykes",
+			"Cassandra Vablatsky",
+			"Celestina Moldubec",
+			"Gunhilda de Gorsemoor"
+		],
+		"answer": "Jocunda Sykes"
+	},
+	{
+		"theme": "Harry Potter",
+		"number": 23,
+		"question": "Quelle salle du Département des Mystères contient des cerveaux agressifs dans « L'Ordre du Phénix » ?",
+		"options": [
+			"La Salle du Temps",
+			"La Salle de l'Amour",
+			"La Salle des Cerveaux",
+			"La Salle de la Mort"
+		],
+		"answer": "La Salle des Cerveaux"
+	},
+	{
+		"theme": "Harry Potter",
+		"number": 24,
+		"question": "Dans les livres, où la Ford Anglia réapparaît-elle après avoir disparu dans la Forêt Interdite ?",
+		"options": [
+			"Au Lac du Parc",
+			"Dans le Saule Cogneur",
+			"À Pré-au-Lard",
+			"Dans les marais de l'école"
+		],
+		"answer": "Dans le Saule Cogneur"
+	},
+	{
+		"theme": "Harry Potter",
+		"number": 25,
+		"question": "Quelle famille française est mentionnée comme rivale des Malefoy dans les livres ?",
+		"options": ["Les Taupignac", "Les Delacour", "Les Lestrange", "Les Rosier"],
+		"answer": "Les Taupignac"
+	},
+	{
+		"theme": "Harry Potter",
+		"number": 26,
+		"question": "Quel est le prénom complet du professeur Quirrell ?",
+		"options": [
+			"Quirinus Quirrell",
+			"Quintus Quirrell",
+			"Quentin Quirrell",
+			"Quasimodo Quirrell"
+		],
+		"answer": "Quirinus Quirrell"
+	},
+	{
+		"theme": "Harry Potter",
+		"number": 27,
+		"question": "Quel objet magique est décrit comme une boule de verre remplie de fumée blanche ?",
+		"options": [
+			"Le Rapeltout",
+			"Le Remembrall",
+			"Le Détraqueur",
+			"Le Miroir du Riséd"
+		],
+		"answer": "Le Remembrall"
+	},
+	{
+		"theme": "Harry Potter",
+		"number": 28,
+		"question": "Qui a écrit « Les Forces Obscures : Un Guide d'Autoprotection » ?",
+		"options": [
+			"Phineas Nigellus",
+			"Gilderoy Lockhart",
+			"Quirinus Quirrell",
+			"Severus Rogue"
+		],
+		"answer": "Phineas Nigellus"
+	},
+	{
+		"theme": "Harry Potter",
+		"number": 29,
+		"question": "Quel objet permet de voir ses ennemis approcher sous forme d'ombres ?",
+		"options": [
+			"Le Foe-Glass",
+			"Le Sneakoscope",
+			"L'Horloge de Weasley",
+			"Le Miroir du Riséd"
+		],
+		"answer": "Le Foe-Glass"
+	},
+	{
+		"theme": "Harry Potter",
+		"number": 30,
+		"question": "Quelle créature est associée à la prophétie dans le folklore magique ?",
+		"options": ["L'Augurey", "Le Botruc", "Le Doxy", "Le Nogtail"],
+		"answer": "L'Augurey"
+	},
+	{
+		"theme": "Harry Potter",
+		"number": 31,
+		"question": "Quelle phrase exacte est gravée sur le Miroir de Riséd dans le premier livre ?",
+		"options": [
+			"« Je montre ton désir le plus profond »",
+			"« Je ne montre pas ton visage mais le désir de ton cœur »",
+			"« Regarde et comprends »",
+			"« Vérité au-delà des apparences »"
+		],
+		"answer": "« Je ne montre pas ton visage mais le désir de ton cœur »"
+	},
+	{
+		"theme": "Harry Potter",
+		"number": 32,
+		"question": "Quel détail apparaît sur la couverture originale anglaise de « L'Ordre du Phénix » ?",
+		"options": [
+			"Un centaure",
+			"Un phénix",
+			"Un cerbère",
+			"Un train en arrière-plan"
+		],
+		"answer": "Un train en arrière-plan"
+	},
+	{
+		"theme": "Harry Potter",
+		"number": 33,
+		"question": "Selon les règles officielles du Quidditch, que se passe-t-il si l'Attrapeur est gravement blessé ?",
+		"options": [
+			"Le match continue",
+			"Le match est reporté",
+			"Un remplaçant entre",
+			"Le score est gelé"
+		],
+		"answer": "Le match continue"
+	},
+	{
+		"theme": "Harry Potter",
+		"number": 34,
+		"question": "Quel ministre de la Magie a dirigé la répression contre les géants au XIXᵉ siècle ?",
+		"options": [
+			"Hesphaestus Gore",
+			"Artemisia Lufkin",
+			"Perseus Parkinson",
+			"Grogan Stump"
+		],
+		"answer": "Hesphaestus Gore"
+	},
+	{
+		"theme": "Harry Potter",
+		"number": 35,
+		"question": "Quel excentricité d'Uric l'Extraordinaire est mentionnée dans « Les Contes de Beedle le Barde » ?",
+		"options": [
+			"Il portait une méduse vivante en chapeau",
+			"Il parlait aux chaussettes",
+			"Il buvait du poison pour rire",
+			"Il dormait dans un cercueil"
+		],
+		"answer": "Il portait une méduse vivante en chapeau"
+	},
+	{
+		"theme": "Harry Potter",
+		"number": 36,
+		"question": "Quel portrait dans le bureau de Dumbledore est décrit comme « ronflant bruyamment » ?",
+		"options": [
+			"Phineas Nigellus",
+			"Dilys Derwent",
+			"Everard",
+			"Armando Dippet"
+		],
+		"answer": "Phineas Nigellus"
+	},
+	{
+		"theme": "Harry Potter",
+		"number": 37,
+		"question": "Quel lien familial unit Bathilda Tourdesac à Gellert Grindelwald ?",
+		"options": [
+			"C'est sa grand-tante",
+			"C'est sa mère",
+			"C'est sa sœur",
+			"C'est sa cousine"
+		],
+		"answer": "C'est sa grand-tante"
+	},
+	{
+		"theme": "Harry Potter",
+		"number": 38,
+		"question": "Quel pays a remporté la Coupe du Monde de Quidditch en 1994 ?",
+		"options": ["Irlande", "Bulgarie", "France", "Norvège"],
+		"answer": "Irlande"
+	},
+	{
+		"theme": "Harry Potter",
+		"number": 39,
+		"question": "Quel est le deuxième prénom de Regulus Black ?",
+		"options": ["Arcturus", "Orion", "Pollux", "Cygnus"],
+		"answer": "Arcturus"
+	},
+	{
+		"theme": "Harry Potter",
+		"number": 40,
+		"question": "Quel sort utilise Hermione pour tromper les Mangemorts lors de l'évasion du square Grimmaurd ?",
+		"options": ["Mimblewimble", "Duro", "Geminio", "Confundus"],
+		"answer": "Geminio"
+	},
+	{
+		"theme": "Harry Potter",
+		"number": 41,
+		"question": "Qui était le propriétaire légitime de la Baguette de Sureau avant qu'elle ne soit volée par Grindelwald ?",
+		"options": [
+			"Mykew Gregorovitch",
+			"Gellert Grindelwald",
+			"Albus Dumbledore",
+			"Antioch Peverell"
+		],
+		"answer": "Mykew Gregorovitch"
+	},
+	{
+		"theme": "Harry Potter",
+		"number": 42,
+		"question": "Quel ingrédient rare est nécessaire pour fabriquer une Cape d'Invisibilité *véritable* ?",
+		"options": [
+			"Poil de Demiguise",
+			"Plume de Sombrals",
+			"Peau de Kelpy",
+			"Écailles de Dragon"
+		],
+		"answer": "Poil de Demiguise"
+	},
+	{
+		"theme": "Harry Potter",
+		"number": 43,
+		"question": "Quel sortilège est utilisé pour détruire le médaillon Horcruxe dans la caverne ?",
+		"options": ["Sectumsempra", "Confringo", "Reducto", "Fiendfyre"],
+		"answer": "Fiendfyre"
+	},
+	{
+		"theme": "Harry Potter",
+		"number": 44,
+		"question": "Combien de fois Bathilda Tourdesac a-t-elle refusé le poste de Ministre de la Magie ?",
+		"options": ["3 fois", "2 fois", "5 fois", "Jamais"],
+		"answer": "3 fois"
+	},
+	{
+		"theme": "Harry Potter",
+		"number": 45,
+		"question": "Quel est le nom complet de la grand-mère de Neville Londubat ?",
+		"options": [
+			"Augusta Londubat",
+			"Enid Sanguina",
+			"Cassiopée Black",
+			"Eulalie Hopkirk"
+		],
+		"answer": "Augusta Londubat"
+	},
+	{
+		"theme": "Harry Potter",
+		"number": 46,
+		"question": "Quel animal est représenté sur les boutons de manchette de Lucius Malefoy ?",
+		"options": ["Un serpent", "Un aigle", "Un dragon", "Un crâne"],
+		"answer": "Un serpent"
+	},
+	{
+		"theme": "Harry Potter",
+		"number": 47,
+		"question": "Quelle est la seule équipe de Quidditch à avoir battu Poudlard pendant le cursus de Harry ?",
+		"options": [
+			"Les Vautours de Heidelberg",
+			"Les Frelons de Wimbourne",
+			"Les Harpies de Holyhead",
+			"Les Tornades de Tutshill"
+		],
+		"answer": "Les Harpies de Holyhead"
+	},
+	{
+		"theme": "Harry Potter",
+		"number": 48,
+		"question": "Quel objet magique est fabriqué à partir d'une coquille d'œuf de Rougarou ?",
+		"options": [
+			"Une Bobille",
+			"Un Ombricule",
+			"Un Épouvantard",
+			"Un Miroirard"
+		],
+		"answer": "Une Bobille"
+	},
+	{
+		"theme": "Harry Potter",
+		"number": 49,
+		"question": "Qui a traduit en anglais « Les Contes de Beedle le Barde » pour Dumbledore ?",
+		"options": [
+			"Bathilda Tourdesac",
 			"Hermione Granger",
-			"Luna Lovegood",
-			"Ginny Weasley",
-			"Cho Chang"
+			"Xenophilius Lovegood",
+			"Minerva McGonagall"
 		],
-		"answer": "Hermione Granger"
+		"answer": "Bathilda Tourdesac"
 	},
 	{
-		"theme": "Personnages",
-		"number": 5,
-		"question": "Quel personnage est le rival de Harry à Serpentard ?",
+		"theme": "Harry Potter",
+		"number": 50,
+		"question": "Quelle est la devise des Black, gravée sur leur blason familial ?",
 		"options": [
-			"Drago Malefoy",
-			"Severus Rogue",
-			"Lucius Malefoy",
-			"Voldemort"
+			"« Toujours Pur »",
+			"« Sang et Honneur »",
+			"« Par la ruse ou la force »",
+			"« Pour le plus grand bien »"
 		],
-		"answer": "Drago Malefoy"
+		"answer": "« Toujours Pur »"
 	},
 	{
-		"theme": "Personnages",
-		"number": 6,
-		"question": "Quel personnage est le professeur de potions au début de la série ?",
+		"theme": "Harry Potter",
+		"number": 51,
+		"question": "Dans quelle pièce de Poudlard se trouve le miroir à deux faces de Sirius ?",
+		"options": [
+			"Salle sur Demande",
+			"Tour d'astronomie",
+			"Infirmerie",
+			"Salle commune de Gryffondor"
+		],
+		"answer": "Salle sur Demande"
+	},
+	{
+		"theme": "Harry Potter",
+		"number": 52,
+		"question": "Quel est le nom du premier Niffleur apprivoisé par Norbert Dragonneau ?",
+		"options": ["Teddy", "Pickett", "Dougal", "Nébulon"],
+		"answer": "Teddy"
+	},
+	{
+		"theme": "Harry Potter",
+		"number": 53,
+		"question": "Quelle loi magique interdit d'enseigner la Métamorphose aux élèves de première année ?",
+		"options": ["Loi 734", "Décret 26", "Règlement 73", "Code 113"],
+		"answer": "Loi 734"
+	},
+	{
+		"theme": "Harry Potter",
+		"number": 54,
+		"question": "Quel est le prénom de la mère de Teddy Lupin ?",
+		"options": ["Nymphadora", "Andromède", "Bellatrix", "Tonks"],
+		"answer": "Nymphadora"
+	},
+	{
+		"theme": "Harry Potter",
+		"number": 55,
+		"question": "Quel sort utilise Harry pour nettoyer le Chaudron de Rusard dans l'AD ?",
+		"options": ["Scourgify", "Tergeo", "Evanesco", "Reparo"],
+		"answer": "Scourgify"
+	},
+	{
+		"theme": "Harry Potter",
+		"number": 56,
+		"question": "Quelle créature garde les œufs d'Occamy dans « Les Animaux Fantastiques » ?",
+		"options": [
+			"Démiguise",
+			"Serpent cornu",
+			"Dragon des Highlands",
+			"Erkling"
+		],
+		"answer": "Serpent cornu"
+	},
+	{
+		"theme": "Harry Potter",
+		"number": 57,
+		"question": "Qui est l'auteur de « La Magie des Métamorphoses » utilisé en cours de McGonagall ?",
+		"options": [
+			"Emeric Gobe-Enclume",
+			"Adalbert Lasornette",
+			"Miranda Fauconnette",
+			"Wilhelm Wigworthy"
+		],
+		"answer": "Adalbert Lasornette"
+	},
+	{
+		"theme": "Harry Potter",
+		"number": 58,
+		"question": "Quel pays abrite la seule réserve de Snidgets Dorés au monde ?",
+		"options": ["Pérou", "Suisse", "Nouvelle-Zélande", "Égypte"],
+		"answer": "Suisse"
+	},
+	{
+		"theme": "Harry Potter",
+		"number": 59,
+		"question": "Combien de fois Dumbledore a-t-il été élu « Sorcier du Mois » par *La Gazette du Sorcier* ?",
+		"options": ["4 fois", "2 fois", "6 fois", "Jamais"],
+		"answer": "6 fois"
+	},
+	{
+		"theme": "Harry Potter",
+		"number": 60,
+		"question": "Quel est le nom du premier dragon rencontré par Harry dans la Réserve Dragon ?",
+		"options": ["Norbert", "Buck", "Ukranian Ironbelly", "Hungarian Horntail"],
+		"answer": "Norbert"
+	},
+	{
+		"theme": "Harry Potter",
+		"number": 61,
+		"question": "Quel nom français a été donné au « Remembrall » dans la traduction originale ?",
+		"options": ["Mémo-graine", "Rappelou", "Souviens-bulle", "Pensoscope"],
+		"answer": "Rappelou"
+	},
+	{
+		"theme": "Harry Potter",
+		"number": 62,
+		"question": "Quel portrait mouvant protège l'entrée de la salle des trophées à Poudlard ?",
+		"options": [
+			"Dame Grosse",
+			"Sir Patrick Delaney-Podmore",
+			"Le Chevalier Vert",
+			"Boris le Mégard"
+		],
+		"answer": "Sir Patrick Delaney-Podmore"
+	},
+	{
+		"theme": "Harry Potter",
+		"number": 63,
+		"question": "Quel sorcier a été acquitté au Magenmagot pour avoir dansé nu avec un Calmar Géant ?",
+		"options": [
+			"Newt Scamander",
+			"Ludo Verpey",
+			"Archie Aymslowe",
+			"Xenophilius Lovegood"
+		],
+		"answer": "Archie Aymslowe"
+	},
+	{
+		"theme": "Harry Potter",
+		"number": 64,
+		"question": "Qui a inventé le sortilège « Levicorpus » popularisé par le Prince de Sang-Mêlé ?",
 		"options": [
 			"Severus Rogue",
-			"Horace Slughorn",
-			"Minerva McGonagall",
-			"Gilderoy Lockhart"
+			"Gellert Grindelwald",
+			"Emeric Gobe-Enclume",
+			"Merloyd Malkin"
 		],
 		"answer": "Severus Rogue"
 	},
 	{
-		"theme": "Personnages",
-		"number": 7,
-		"question": "Quel personnage est connu pour ses cheveux roux et sa grande famille ?",
+		"theme": "Harry Potter",
+		"number": 65,
+		"question": "Quelle plante rare de Neville produit un liquide nauséabond quand on la presse ?",
 		"options": [
-			"Ron Weasley",
-			"Ginny Weasley",
-			"Fred Weasley",
-			"George Weasley"
+			"Filet du Diable",
+			"Mimbulus mimbletonia",
+			"Pétunia magique",
+			"Vénéneuse du Nil"
 		],
-		"answer": "Ron Weasley"
+		"answer": "Mimbulus mimbletonia"
 	},
 	{
-		"theme": "Personnages",
-		"number": 8,
-		"question": "Quel personnage est le gardien des clés et des lieux à Poudlard ?",
+		"theme": "Harry Potter",
+		"number": 66,
+		"question": "Combien d'étoiles comporte la constellation de Cassiopée sur le plafond de la Salle sur Demande ?",
+		"options": ["5", "7", "9", "12"],
+		"answer": "5"
+	},
+	{
+		"theme": "Harry Potter",
+		"number": 67,
+		"question": "Quel est le nom du premier Épouvantard affronté par Harry pendant les DA ?",
+		"options": ["Un Détraqueur", "Un Basilic", "Voldemort", "Un Acromentule"],
+		"answer": "Un Détraqueur"
+	},
+	{
+		"theme": "Harry Potter",
+		"number": 68,
+		"question": "Quel aliment déclenche une réaction violente chez les Détraqueurs selon Lupin ?",
+		"options": ["Chocolat", "Ail", "Réglisse", "Rien"],
+		"answer": "Rien"
+	},
+	{
+		"theme": "Harry Potter",
+		"number": 69,
+		"question": "Quel membre du Club de Slug possède un père célèbre dans la fabrication de baguettes ?",
 		"options": [
-			"Rubeus Hagrid",
-			"Argus Rusard",
-			"Alastor Maugrey",
-			"Remus Lupin"
+			"Cormac McLaggen",
+			"Blaise Zabini",
+			"Marcus Belby",
+			"Theodore Nott"
 		],
-		"answer": "Rubeus Hagrid"
+		"answer": "Marcus Belby"
 	},
 	{
-		"theme": "Personnages",
-		"number": 9,
-		"question": "Quel personnage est connu pour ses lunettes en forme de demi-lune ?",
+		"theme": "Harry Potter",
+		"number": 70,
+		"question": "Quel objet magique est fabriqué à partir de corne d'Erkling ?",
+		"options": ["Sneakoscope", "Bobille", "Pensive", "Ondoscope"],
+		"answer": "Sneakoscope"
+	},
+	{
+		"theme": "Harry Potter",
+		"number": 71,
+		"question": "Quelle est la particularité du journal intime de Sirius Black volé par Kreacher ?",
 		"options": [
-			"Albus Dumbledore",
-			"Harry Potter",
-			"Minerva McGonagall",
-			"Severus Rogue"
+			"Il parle",
+			"Il est ensorcelé",
+			"Il contient des runes",
+			"Il est en peau de démon"
 		],
-		"answer": "Albus Dumbledore"
+		"answer": "Il est en peau de démon"
 	},
 	{
-		"theme": "Personnages",
-		"number": 10,
-		"question": "Quel personnage est le Seigneur des Ténèbres ?",
+		"theme": "Harry Potter",
+		"number": 72,
+		"question": "Qui a sculpté la statue de la Magie et de la Sorcellerie au Ministère ?",
 		"options": [
-			"Voldemort",
-			"Lucius Malefoy",
-			"Bellatrix Lestrange",
-			"Drago Malefoy"
+			"Gondoline Oliphant",
+			"Gaspard Shingleton",
+			"Laverne de Montmorency",
+			"Gunhilda de Gorsemoor"
 		],
-		"answer": "Voldemort"
+		"answer": "Gondoline Oliphant"
 	},
 	{
-		"theme": "Sortilèges",
-		"number": 1,
-		"question": "Quel sort est utilisé pour désarmer un adversaire ?",
-		"options": ["Expelliarmus", "Stupefix", "Avada Kedavra", "Accio"],
-		"answer": "Expelliarmus"
+		"theme": "Harry Potter",
+		"number": 73,
+		"question": "Quel sortilège est utilisé pour réparer les lunettes de Harry dans le premier film ?",
+		"options": ["Oculus Reparo", "Reparo", "Evanesco", "Scourgify"],
+		"answer": "Oculus Reparo"
 	},
 	{
-		"theme": "Sortilèges",
-		"number": 2,
-		"question": "Quel sort est utilisé pour tuer ?",
-		"options": ["Avada Kedavra", "Crucio", "Imperio", "Stupefix"],
-		"answer": "Avada Kedavra"
+		"theme": "Harry Potter",
+		"number": 74,
+		"question": "Quel pays a inventé le Tournoi des Trois Sorciers ?",
+		"options": ["France", "Bulgarie", "Allemagne", "Pologne"],
+		"answer": "France"
 	},
 	{
-		"theme": "Sortilèges",
-		"number": 3,
-		"question": "Quel sort est utilisé pour faire léviter des objets ?",
-		"options": ["Wingardium Leviosa", "Accio", "Lumos", "Alohomora"],
-		"answer": "Wingardium Leviosa"
+		"theme": "Harry Potter",
+		"number": 75,
+		"question": "Combien de temps dure l'effet d'une dose standard de Polynectar ?",
+		"options": ["1 heure", "10 minutes", "12 heures", "1 jour"],
+		"answer": "1 heure"
 	},
 	{
-		"theme": "Sortilèges",
-		"number": 4,
-		"question": "Quel sort est utilisé pour ouvrir des portes verrouillées ?",
-		"options": ["Alohomora", "Accio", "Lumos", "Nox"],
-		"answer": "Alohomora"
-	},
-	{
-		"theme": "Sortilèges",
-		"number": 5,
-		"question": "Quel sort est utilisé pour éclairer la baguette ?",
-		"options": ["Lumos", "Nox", "Accio", "Alohomora"],
-		"answer": "Lumos"
-	},
-	{
-		"theme": "Sortilèges",
-		"number": 6,
-		"question": "Quel sort est utilisé pour éteindre la lumière de la baguette ?",
-		"options": ["Nox", "Lumos", "Accio", "Alohomora"],
-		"answer": "Nox"
-	},
-	{
-		"theme": "Sortilèges",
-		"number": 7,
-		"question": "Quel sort est utilisé pour invoquer un objet ?",
-		"options": ["Accio", "Wingardium Leviosa", "Alohomora", "Lumos"],
-		"answer": "Accio"
-	},
-	{
-		"theme": "Sortilèges",
-		"number": 8,
-		"question": "Quel sort est utilisé pour stupéfier un adversaire ?",
-		"options": ["Stupefix", "Expelliarmus", "Avada Kedavra", "Crucio"],
-		"answer": "Stupefix"
-	},
-	{
-		"theme": "Sortilèges",
-		"number": 9,
-		"question": "Quel sort est utilisé pour torturer ?",
-		"options": ["Crucio", "Avada Kedavra", "Imperio", "Stupefix"],
-		"answer": "Crucio"
-	},
-	{
-		"theme": "Sortilèges",
-		"number": 10,
-		"question": "Quel sort est utilisé pour contrôler quelqu'un ?",
-		"options": ["Imperio", "Crucio", "Avada Kedavra", "Stupefix"],
-		"answer": "Imperio"
-	},
-	{
-		"theme": "Créatures",
-		"number": 1,
-		"question": "Quelle créature est connue pour garder les coffres de Gringotts ?",
-		"options": ["Dragon", "Gobelin", "Sombral", "Hippogriffe"],
-		"answer": "Gobelin"
-	},
-	{
-		"theme": "Créatures",
-		"number": 2,
-		"question": "Quelle créature est Buck l'Hippogriffe ?",
-		"options": ["Hippogriffe", "Sombral", "Dragon", "Acromantula"],
-		"answer": "Hippogriffe"
-	},
-	{
-		"theme": "Créatures",
-		"number": 3,
-		"question": "Quelle créature est Aragog ?",
-		"options": ["Acromantula", "Dragon", "Sombral", "Hippogriffe"],
-		"answer": "Acromantula"
-	},
-	{
-		"theme": "Créatures",
-		"number": 4,
-		"question": "Quelle créature est Fumseck ?",
-		"options": ["Phénix", "Dragon", "Sombral", "Hippogriffe"],
-		"answer": "Phénix"
-	},
-	{
-		"theme": "Créatures",
-		"number": 5,
-		"question": "Quelle créature est utilisée pour tirer les carrosses de Poudlard ?",
-		"options": ["Sombral", "Hippogriffe", "Dragon", "Acromantula"],
-		"answer": "Sombral"
-	},
-	{
-		"theme": "Créatures",
-		"number": 6,
-		"question": "Quelle créature est Norbert ?",
-		"options": ["Dragon", "Hippogriffe", "Sombral", "Acromantula"],
+		"theme": "Harry Potter",
+		"number": 76,
+		"question": "Quel animal orne le chapeau de la statue de la Fontaine Magique du Ministère ?",
+		"options": ["Lion", "Dragon", "Phénix", "Lichen"],
 		"answer": "Dragon"
 	},
 	{
-		"theme": "Créatures",
-		"number": 7,
-		"question": "Quelle créature est Dobby ?",
-		"options": ["Elfe de maison", "Gobelin", "Sombral", "Hippogriffe"],
-		"answer": "Elfe de maison"
+		"theme": "Harry Potter",
+		"number": 77,
+		"question": "Quel est le nom complet de la mère de Ron Weasley ?",
+		"options": [
+			"Molly Weasley",
+			"Molly Prewett",
+			"Molly Septimus",
+			"Molly Ignatia"
+		],
+		"answer": "Molly Prewett"
 	},
 	{
-		"theme": "Créatures",
-		"number": 8,
-		"question": "Quelle créature est utilisée pour envoyer du courrier dans le monde des sorciers ?",
-		"options": ["Hibou", "Sombral", "Dragon", "Hippogriffe"],
-		"answer": "Hibou"
+		"theme": "Harry Potter",
+		"number": 78,
+		"question": "Quel sort utilise Hermione pour faire disparaître les Détraqueurs du train dans le POA ?",
+		"options": ["Expecto Patronum", "Riddikulus", "Lumos Solem", "Incendio"],
+		"answer": "Lumos Solem"
 	},
 	{
-		"theme": "Créatures",
-		"number": 9,
-		"question": "Quelle créature est Nagini ?",
-		"options": ["Serpent", "Dragon", "Sombral", "Acromantula"],
+		"theme": "Harry Potter",
+		"number": 79,
+		"question": "Quel ingrédient secret de la Bière au Beurre est produit par les elfes de maison ?",
+		"options": [
+			"Glandes salivaires de Chizpurfle",
+			"Miel d'Acromentule",
+			"Larmes de Demiguise",
+			"Poils de Knarl"
+		],
+		"answer": "Glandes salivaires de Chizpurfle"
+	},
+	{
+		"theme": "Harry Potter",
+		"number": 80,
+		"question": "Quel est le prénom du frère jumeau de Fabian Prewett ?",
+		"options": ["Gideon", "Bilius", "Septimus", "Ignatius"],
+		"answer": "Gideon"
+	},
+	{
+		"theme": "Harry Potter",
+		"number": 81,
+		"question": "Quelle créature mythique est représentée sur la bague des Black ?",
+		"options": ["Griffon", "Lichen", "Serpent", "Hippogriffe"],
 		"answer": "Serpent"
 	},
 	{
-		"theme": "Créatures",
-		"number": 10,
-		"question": "Quelle créature est Fluffy ?",
-		"options": ["Chien à trois têtes", "Dragon", "Sombral", "Hippogriffe"],
-		"answer": "Chien à trois têtes"
+		"theme": "Harry Potter",
+		"number": 82,
+		"question": "Quel est le nom du balai utilisé par Viktor Krum pendant le Tournoi ?",
+		"options": ["Nimbus 2001", "Firebolt", "Comète 260", "Foudre d'Argent"],
+		"answer": "Foudre d'Argent"
+	},
+	{
+		"theme": "Harry Potter",
+		"number": 83,
+		"question": "Qui a écrit « Les Hauts Faits de la Magie » lu par Harry dans le tome 5 ?",
+		"options": [
+			"Adalbert Lasornette",
+			"Gilderoy Lockhart",
+			"Wilhelm Wigworthy",
+			"Oswald Beamish"
+		],
+		"answer": "Adalbert Lasornette"
+	},
+	{
+		"theme": "Harry Potter",
+		"number": 84,
+		"question": "Quel est le seul pays où le Snidget Doré est protégé par la loi ?",
+		"options": ["Papouasie-Nouvelle-Guinée", "Suisse", "Roumanie", "Éthiopie"],
+		"answer": "Papouasie-Nouvelle-Guinée"
+	},
+	{
+		"theme": "Harry Potter",
+		"number": 85,
+		"question": "Quelle est la signature magique de Dolores Ombrage ?",
+		"options": [
+			"Un chat",
+			"Une plume rose",
+			"Un cœur brisé",
+			"Un nœud papillon"
+		],
+		"answer": "Une plume rose"
+	},
+	{
+		"theme": "Harry Potter",
+		"number": 86,
+		"question": "Combien de marches compte l'escalier menant au bureau de Dumbledore ?",
+		"options": ["97", "102", "113", "63"],
+		"answer": "97"
+	},
+	{
+		"theme": "Harry Potter",
+		"number": 87,
+		"question": "Quel sorcier a inventé l'Horloge de Weasley ?",
+		"options": [
+			"Septimus Weasley",
+			"Ignatius Prewett",
+			"Gideon Prewett",
+			"Fabian Prewett"
+		],
+		"answer": "Septimus Weasley"
+	},
+	{
+		"theme": "Harry Potter",
+		"number": 88,
+		"question": "Quel sortilège a causé la perte de l'oreille de George Weasley ?",
+		"options": ["Sectumsempra", "Confringo", "Diffindo", "Reducto"],
+		"answer": "Sectumsempra"
+	},
+	{
+		"theme": "Harry Potter",
+		"number": 89,
+		"question": "Quel est le nom du chef des gobelins pendant la révolte de 1612 ?",
+		"options": ["Urg l'Infligeur", "Ragnuk 1er", "Bogrod", "Griphook"],
+		"answer": "Urg l'Infligeur"
+	},
+	{
+		"theme": "Harry Potter",
+		"number": 90,
+		"question": "Quel objet permet de communiquer avec les morts selon Xenophilius Lovegood ?",
+		"options": [
+			"Miroir du Riséd",
+			"Résurrectionneur",
+			"Voile de la Mort",
+			"Pensine"
+		],
+		"answer": "Résurrectionneur"
+	},
+	{
+		"theme": "Harry Potter",
+		"number": 91,
+		"question": "Quelle substance est utilisée pour créer un Portoloin ?",
+		"options": [
+			"Sang de l'utilisateur",
+			"Plume de phénix",
+			"Pierre philosophale",
+			"Poussière de Fumseck"
+		],
+		"answer": "Sang de l'utilisateur"
+	},
+	{
+		"theme": "Harry Potter",
+		"number": 92,
+		"question": "Quel est le seul cas où un Fantôme peut reprendre forme physique ?",
+		"options": [
+			"Nuit de la Toussaint",
+			"Avec une Pierre philosophale",
+			"Jamais",
+			"En traversant un Voile"
+		],
+		"answer": "Jamais"
+	},
+	{
+		"theme": "Harry Potter",
+		"number": 93,
+		"question": "Qui a peint le portrait de Sir Cadogan à Poudlard ?",
+		"options": [
+			"Cuthbert Binns",
+			"La Dame Grise",
+			"Giffard Abbott",
+			"Gunhilda de Gorsemoor"
+		],
+		"answer": "Gunhilda de Gorsemoor"
+	},
+	{
+		"theme": "Harry Potter",
+		"number": 94,
+		"question": "Quelle est la devise de la famille Prewett ?",
+		"options": [
+			"« Sang et Courage »",
+			"« Fidélité avant tout »",
+			"« Par la ruse et le feu »",
+			"Non mentionnée"
+		],
+		"answer": "Non mentionnée"
+	},
+	{
+		"theme": "Harry Potter",
+		"number": 95,
+		"question": "Quel sortilège est utilisé pour ouvrir le passage secret de la Cabane hurlante ?",
+		"options": ["Dissendium", "Alohomora", "Homenum Revelio", "Portaberto"],
+		"answer": "Dissendium"
+	},
+	{
+		"theme": "Harry Potter",
+		"number": 96,
+		"question": "Quel est le nom du jardinier moldu amoureux de Mirabella Plunkett ?",
+		"options": ["Bertie Higgs", "Archie Aymslowe", "Bob", "Frank Bryce"],
+		"answer": "Bertie Higgs"
+	},
+	{
+		"theme": "Harry Potter",
+		"number": 97,
+		"question": "Combien de fois le mot « Voldemort » est-il prononcé dans les livres par Harry ?",
+		"options": ["0", "3", "12", "21"],
+		"answer": "0"
+	},
+	{
+		"theme": "Harry Potter",
+		"number": 98,
+		"question": "Quel est le premier sort lancé par Harry dans la saga ?",
+		"options": ["Wingardium Leviosa", "Lumos", "Expelliarmus", "Alohomora"],
+		"answer": "Alohomora"
+	},
+	{
+		"theme": "Harry Potter",
+		"number": 99,
+		"question": "Quelle est la dernière phrase prononcée par Dumbledore dans « Le Prince de Sang-Mêlé » ?",
+		"options": [
+			"« À la vie, à la mort »",
+			"« N'oublie pas de fermer les yeux »",
+			"« Pity. »",
+			"« Je ne suis pas inquiet, Harry. Je suis avec toi. »"
+		],
+		"answer": "« N'oublie pas de fermer les yeux »"
+	},
+	{
+		"theme": "Harry Potter",
+		"number": 100,
+		"question": "Quel est le seul Horcruxe détruit par un objet non magique ?",
+		"options": [
+			"Journal de Jedusor",
+			"Bague des Gaunt",
+			"Coupe de Serpentard",
+			"Diadème de Serdaigle"
+		],
+		"answer": "Journal de Jedusor"
 	}
 ]
