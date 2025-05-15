@@ -15,7 +15,10 @@ const app = {
     },
 
     ajouterLeTitre() {
-        const parent = document.querySelector(".header");
+        const grandParent = document.querySelector(".app");
+        const parent = document.createElement("header");
+        parent.classList.add(".header")
+        grandParent.append(parent);
         const enfant = document.createElement("h1");
         enfant.classList.add("titre");
         enfant.textContent = "Quizz";
@@ -73,12 +76,12 @@ const app = {
         const $parent = document.querySelector(".app");
 
         if ($verif) {
-            $verif.textContent = app.choix.answer === app.reponseChoisie ? "Bravo" : "Va mourir";
+            $verif.textContent = app.choix.answer === app.reponseChoisie ? "Bravo" : "Euh... NON";
         } else {
             $verif = document.createElement("p");
             $verif.classList.add("verif");
 
-            $verif.textContent = app.choix.answer === app.reponseChoisie ? "Bravo" : "Va mourir";
+            $verif.textContent = app.choix.answer === app.reponseChoisie ? "Bravo" : "Euh... NON";
 
             $parent.append($verif);
         }

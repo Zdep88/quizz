@@ -1,17 +1,54 @@
 * {
     margin: 0;
 }
-.header {
-}
 
 .app {
     color: rgb(0, 0, 0);
-    background : linear-gradient(rgb(87, 105, 194), white);
-    font-size: 2rem;
+    background: linear-gradient(rgb(87, 105, 194), white);
     width: 100%;
 }
 
-.app button {
-    font-size: 2rem
+
+h1 {
+    border: solid 2px black;
+    border-radius: 2rem;
+    font-size: 4rem;
+    text-align: center;
 }
 
+.theme,
+.question {
+    padding: 0 0 0 10px;
+}
+
+.theme {
+    text-decoration: underline;
+    margin-top: 50px;
+    font-size: 2rem;
+}
+
+.question {
+    margin-top: 20px;
+    padding-bottom: 20px;
+    font-size: 1.5rem;
+}
+
+.boutonReponse {
+    font-size: 1.3rem;
+    margin: 10px;
+}
+
+.verif {
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+    color: rgb(87, 105, 194);
+    font-size: 3rem;
+}
+
+.newQuestion {
+    display: flex;
+    justify-self: center;
+    font-size: 1.3rem;
+    margin-top: 10px;
+}
