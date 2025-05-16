@@ -48,7 +48,12 @@ const app = {
     },
 
     afficherOptions() {
-        const $parent = document.querySelector(".app");
+        const $grandparent = document.querySelector(".app");
+
+        const $parent = document.createElement("div");
+        $parent.classList.add(".blocOptions");
+        $grandparent.append($parent);
+
         let list = app.choix.options;
         const randomList = [];
 
