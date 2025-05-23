@@ -1,4 +1,4 @@
-const reponse = await fetch("./hogwart.json");
+const reponse = await fetch("./quizz/hogwart.json");
 const quizz = await reponse.json();
 
 const app = {
@@ -8,6 +8,8 @@ const app = {
 
     exe() {
         app.ajouterLeTitre();
+        app.creerMain();
+        app.afficherMenu();
         app.choisirQuestion();
         app.afficherTheme();
         app.afficherQuestion();
@@ -17,12 +19,16 @@ const app = {
     ajouterLeTitre() {
         const grandParent = document.querySelector(".app");
         const parent = document.createElement("header");
-        parent.classList.add(".header")
         grandParent.append(parent);
         const enfant = document.createElement("h1");
-        enfant.classList.add("titre");
         enfant.textContent = "Quizz";
         parent.append(enfant);
+    },
+
+    creerMain() {
+        const $main = document.createElement("main");
+        const $app = document.querySelector(".app");
+        $app.append($main);
     },
 
     choisirQuestion() {
@@ -32,7 +38,7 @@ const app = {
 
     afficherQuestion() {
         const question = app.choix.question;
-        const $parent = document.querySelector(".app");
+        const $parent = document.querySelector("main");
         const $question = document.createElement("p");
         $question.classList.add("question")
         $question.textContent = question;
@@ -40,7 +46,7 @@ const app = {
     },
 
     afficherTheme() {
-        const $parent = document.querySelector(".app");
+        const $parent = document.querySelector("main");
         const $theme = document.createElement("p");
         $theme.classList.add("theme");
         $theme.textContent = app.choix.theme;
@@ -48,10 +54,10 @@ const app = {
     },
 
     afficherOptions() {
-        const $grandparent = document.querySelector(".app");
+        const $grandparent = document.querySelector("main");
 
         const $parent = document.createElement("div");
-        $parent.classList.add(".blocOptions");
+        $parent.classList.add("blocOptions");
         $grandparent.append($parent);
 
         let list = app.choix.options;
@@ -78,7 +84,7 @@ const app = {
     comparerReponse() {
 
         let $verif = document.querySelector(".verif");
-        const $parent = document.querySelector(".app");
+        const $parent = document.querySelector("main");
 
         if ($verif) {
             $verif.textContent = app.choix.answer === app.reponseChoisie ? "Bravo" : "Euh... NON";
@@ -109,23 +115,16 @@ const app = {
         app.exe();
     },
 
+    afficherMenu() {
+        const $parent = document.querySelector(".app");
+        const $menu = document.createElement("section");
+        $menu.classList.add("menu")
+        $menu.textContent = "choix du thème";
+        $parent.append($menu);
 
-    ajouterImage() {
-        const parent = document.querySelector(".app");
-        const enfant = document.createElement("img");
-        enfant.style.height = "200px";
-        enfant.style.width = "150px";
-        enfant.setAttribute("src", "./img.jpg");
-        enfant.classList.add("enfant");
-        enfant.classList.add("special");
-        enfant.classList.remove("special");
-        enfant.classList.toggle("enfant");
 
-        parent.append(enfant);
 
-        console.log(enfant);
-    }
-
+    },
 }
 
 app.exe();
