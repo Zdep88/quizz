@@ -11,7 +11,6 @@ const app = {
         app.fetch();
         app.ajouterLeTitre();
         app.creerMain();
-        app.afficherMenu();
         app.choisirQuestion();
         app.afficherTheme();
         app.afficherQuestion();
@@ -28,12 +27,14 @@ const app = {
         ];
 
         app.tableauQuizz = [];
-        
+
         for (const element of listQuizz) {
             const reponse = await fetch("./quizz/" + element.fichier);
             element.contenu = await reponse.json();
             app.tableauQuizz.push(element);
         }
+
+        app.afficherMenu()
 
     },
 
@@ -143,8 +144,12 @@ const app = {
         $menu.textContent = "choix du thème";
         $parent.append($menu);
 
-
-
+        for (const element of app.tableauQuizz) {
+           const menuElement = document.createElement("input")
+           menuElement.setAttribute("type","checkbox")
+           menuElement.setAttribute("name",element.nom)
+           $menu.append(menuElement)
+        }
     },
 }
 
