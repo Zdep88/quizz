@@ -5,8 +5,10 @@ const app = {
 
     choix: null,
     reponseChoisie: null,
+    tableauQuizz: [],
 
     exe() {
+        app.fetch();
         app.ajouterLeTitre();
         app.creerMain();
         app.afficherMenu();
@@ -14,6 +16,25 @@ const app = {
         app.afficherTheme();
         app.afficherQuestion();
         app.afficherOptions();
+    },
+
+    async fetch() {
+
+        const listQuizz = [
+            { nom: "Game of Thrones", fichier: "got.json" },
+            { nom: "Harry Potter", fichier: "hogwart.json" },
+            { nom: "Code", fichier: "dev.json" },
+            { nom: "League of Legend", fichier: "lol.json" }
+        ];
+
+        app.tableauQuizz = [];
+        
+        for (const element of listQuizz) {
+            const reponse = await fetch("./quizz/" + element.fichier);
+            element.contenu = await reponse.json();
+            app.tableauQuizz.push(element);
+        }
+
     },
 
     ajouterLeTitre() {
