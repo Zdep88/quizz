@@ -1,6 +1,3 @@
-const reponse = await fetch("./quizz/hogwart.json");
-const quizz = await reponse.json();
-
 const app = {
 
     choix: null,
@@ -8,9 +5,11 @@ const app = {
     tableauQuizz: [],
     quizzChoisi: [],
 
+
     // fonction qui ne se lance qu'une seule fois
     init() {
         app.fetch();
+        app.afficherMessageErreur();
         app.choisirQuizz();
     },
 
@@ -37,6 +36,37 @@ const app = {
 
     },
 
+    afficherMenu() {
+        const $menu = document.querySelector(".choixTheme");
+
+        for (const element of app.tableauQuizz) {
+            const $checkLabel = document.createElement("div");
+            $checkLabel.classList.add("checkLabel");
+            $menu.prepend($checkLabel);
+
+            const menuElement = document.createElement("input")
+            menuElement.setAttribute("type", "checkbox")
+            menuElement.setAttribute("id", element.nom)
+            menuElement.setAttribute("name", element.nom)
+            $checkLabel.append(menuElement)
+
+            const labelElement = document.createElement("label");
+            labelElement.setAttribute("for", element.nom)
+            labelElement.textContent = element.nom
+            $checkLabel.append(labelElement)
+        }
+    },
+
+    afficherMessageErreur() {
+        app.viderMain()
+
+        const $main = document.querySelector("main");
+
+        const messageErreur = document.createElement("p");
+        messageErreur.textContent = "Veuillez selectionner un quizz";
+        $main.append(messageErreur);
+    },
+
     choisirQuizz() {
         const $form = document.querySelector(".choixTheme");
         $form.addEventListener("submit", (ev) => {
@@ -45,13 +75,11 @@ const app = {
             const boxCochees = document.querySelectorAll(".checkLabel input:checked");
             app.quizzChoisi = [...boxCochees].map(v => v.name);
 
-            // message d'erreur si aucun quizz n'est choisi
-            // if (app.quizzChoisi.length > 0) {
-            // }else{
-            // }
-
-
-            app.poserUneNouvelleQuestion();
+            if (app.quizzChoisi.length > 0) {
+                app.poserUneNouvelleQuestion()
+            } else {
+                app.afficherMessageErreur();
+            }
         })
     },
 
@@ -76,6 +104,14 @@ const app = {
         app.choix = questionRetenue;
     },
 
+    afficherTheme() {
+        const $parent = document.querySelector("main");
+        const $theme = document.createElement("h2");
+        $theme.classList.add("theme");
+        $theme.textContent = app.choix.theme;
+        $parent.append($theme);
+    },
+
     afficherQuestion() {
         const question = app.choix.question;
         const $parent = document.querySelector("main");
@@ -83,14 +119,6 @@ const app = {
         $question.classList.add("question")
         $question.textContent = question;
         $parent.append($question);
-    },
-
-    afficherTheme() {
-        const $parent = document.querySelector("main");
-        const $theme = document.createElement("h2");
-        $theme.classList.add("theme");
-        $theme.textContent = app.choix.theme;
-        $parent.append($theme);
     },
 
     afficherOptions() {
@@ -150,32 +178,14 @@ const app = {
     },
 
     poserUneNouvelleQuestion() {
-        const application = document.querySelector("main");
-        application.innerHTML = "";
+        app.viderMain();
         app.exe();
     },
 
-    afficherMenu() {
-        const $menu = document.querySelector(".choixTheme");
-
-        for (const element of app.tableauQuizz) {
-            const $checkLabel = document.createElement("div");
-            $checkLabel.classList.add("checkLabel");
-            $menu.prepend($checkLabel);
-
-            const menuElement = document.createElement("input")
-            menuElement.setAttribute("type", "checkbox")
-            menuElement.setAttribute("id", element.nom)
-            menuElement.setAttribute("name", element.nom)
-            $checkLabel.append(menuElement)
-
-            const labelElement = document.createElement("label");
-            labelElement.setAttribute("for", element.nom)
-            labelElement.textContent = element.nom
-            $checkLabel.append(labelElement)
-        }
+    viderMain() {
+        const application = document.querySelector("main");
+        application.innerHTML = "";
     },
-
 };
 
 app.init();
