@@ -7,10 +7,13 @@ const app = {
     reponseChoisie: null,
     tableauQuizz: [],
 
-    exe() {
+    // fonction qui ne se lance qu'une seule fois
+    init () {
         app.fetch();
-        app.ajouterLeTitre();
-        app.creerMain();
+    },
+    
+    // fonction qui se lance à chaque nouvelle partie
+    exe() {
         app.choisirQuestion();
         app.afficherTheme();
         app.afficherQuestion();
@@ -34,23 +37,10 @@ const app = {
             app.tableauQuizz.push(element);
         }
 
-        app.afficherMenu()
+        app.tableauQuizz = app.tableauQuizz.sort((a, b) => a.nom < b.nom ? 1 : -1);
 
-    },
+        app.afficherMenu();
 
-    ajouterLeTitre() {
-        const grandParent = document.querySelector(".app");
-        const parent = document.createElement("header");
-        grandParent.append(parent);
-        const enfant = document.createElement("h1");
-        enfant.textContent = "Quizz";
-        parent.append(enfant);
-    },
-
-    creerMain() {
-        const $main = document.createElement("main");
-        const $app = document.querySelector(".app");
-        $app.append($main);
     },
 
     choisirQuestion() {
@@ -69,7 +59,7 @@ const app = {
 
     afficherTheme() {
         const $parent = document.querySelector("main");
-        const $theme = document.createElement("p");
+        const $theme = document.createElement("h2");
         $theme.classList.add("theme");
         $theme.textContent = app.choix.theme;
         $parent.append($theme);
@@ -132,23 +122,18 @@ const app = {
     },
 
     poserUneNouvelleQuestion() {
-        const application = document.querySelector(".app");
+        const application = document.querySelector("main");
         application.innerHTML = "";
         app.exe();
     },
 
     afficherMenu() {
-        const $parent = document.querySelector(".app");
-
-        const $menu = document.createElement("section");
-        $menu.classList.add("menu")
-        $menu.textContent = "choix du thème";
-        $parent.append($menu);
+        const $menu = document.querySelector(".choixTheme");
 
         for (const element of app.tableauQuizz) {
             const $checkLabel = document.createElement("div");
             $checkLabel.classList.add("checkLabel");
-            $menu.append($checkLabel);
+            $menu.prepend($checkLabel);
 
             const menuElement = document.createElement("input")
             menuElement.setAttribute("type", "checkbox")
@@ -161,8 +146,8 @@ const app = {
             $checkLabel.append(labelElement)
         }
     },
-}
+    
+};
 
+app.init();
 app.exe();
-
-
