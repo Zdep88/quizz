@@ -6,18 +6,12 @@ const app = {
     choix: null,
     reponseChoisie: null,
     tableauQuizz: [],
+    quizzChoisi: [],
 
     // fonction qui ne se lance qu'une seule fois
-    init () {
+    init() {
         app.fetch();
-    },
-    
-    // fonction qui se lance à chaque nouvelle partie
-    exe() {
-        app.choisirQuestion();
-        app.afficherTheme();
-        app.afficherQuestion();
-        app.afficherOptions();
+        app.choisirQuizz();
     },
 
     async fetch() {
@@ -43,9 +37,43 @@ const app = {
 
     },
 
+    choisirQuizz() {
+        const $form = document.querySelector(".choixTheme");
+        $form.addEventListener("submit", (ev) => {
+            ev.preventDefault();
+
+            const boxCochees = document.querySelectorAll(".checkLabel input:checked");
+            app.quizzChoisi = [...boxCochees].map(v => v.name);
+
+            // message d'erreur si aucun quizz n'est choisi
+            // if (app.quizzChoisi.length > 0) {
+            // }else{
+            // }
+
+
+            app.poserUneNouvelleQuestion();
+        })
+    },
+
+    // fonction qui se lance à chaque nouvelle partie
+    exe() {
+        app.choisirQuestion();
+        app.afficherTheme();
+        app.afficherQuestion();
+        app.afficherOptions();
+    },
+
     choisirQuestion() {
-        const randomIndex = Math.floor(Math.random() * quizz.length);
-        app.choix = quizz[randomIndex];
+        // 1- on choisit un quiz aléatoire parmi les QUIZ COCHES
+        const randomQuizz = Math.floor(Math.random() * app.quizzChoisi.length);
+        const quizzRetenu = app.quizzChoisi[randomQuizz];
+        const contenuQuizz = app.tableauQuizz.find((v) => v.nom === quizzRetenu).contenu;
+
+        // 2- on tire une question de ce quiz, elle-même aléatoire
+        const randomQuestion = Math.floor(Math.random() * contenuQuizz.length);
+        const questionRetenue = contenuQuizz[randomQuestion];
+
+        app.choix = questionRetenue;
     },
 
     afficherQuestion() {
@@ -138,6 +166,7 @@ const app = {
             const menuElement = document.createElement("input")
             menuElement.setAttribute("type", "checkbox")
             menuElement.setAttribute("id", element.nom)
+            menuElement.setAttribute("name", element.nom)
             $checkLabel.append(menuElement)
 
             const labelElement = document.createElement("label");
@@ -146,8 +175,7 @@ const app = {
             $checkLabel.append(labelElement)
         }
     },
-    
+
 };
 
 app.init();
-app.exe();
