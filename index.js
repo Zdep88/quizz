@@ -139,16 +139,26 @@ const app = {
 
     afficherMenu() {
         const $parent = document.querySelector(".app");
+
         const $menu = document.createElement("section");
         $menu.classList.add("menu")
         $menu.textContent = "choix du thème";
         $parent.append($menu);
 
         for (const element of app.tableauQuizz) {
-           const menuElement = document.createElement("input")
-           menuElement.setAttribute("type","checkbox")
-           menuElement.setAttribute("name",element.nom)
-           $menu.append(menuElement)
+            const $checkLabel = document.createElement("div");
+            $checkLabel.classList.add("checkLabel");
+            $menu.append($checkLabel);
+
+            const menuElement = document.createElement("input")
+            menuElement.setAttribute("type", "checkbox")
+            menuElement.setAttribute("id", element.nom)
+            $checkLabel.append(menuElement)
+
+            const labelElement = document.createElement("label");
+            labelElement.setAttribute("for", element.nom)
+            labelElement.textContent = element.nom
+            $checkLabel.append(labelElement)
         }
     },
 }
