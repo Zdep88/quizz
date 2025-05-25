@@ -63,6 +63,7 @@ const app = {
         const $main = document.querySelector("main");
 
         const messageErreur = document.createElement("p");
+        messageErreur.classList.add("messageErreur");
         messageErreur.textContent = "Veuillez selectionner un quizz";
         $main.append(messageErreur);
     },
