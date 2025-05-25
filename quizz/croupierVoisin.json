@@ -1,0 +1,446 @@
+[
+  {
+    "theme": "Croupier (Voisins)",
+    "number": 0,
+    "question": "Quels sont les voisins du 0 ?",
+    "options": [
+      "0, 3, 12, 26, 35",
+      "0, 3, 15, 26, 32",
+      "0, 3, 26, 32, 35",
+      "0, 4, 15, 19, 32"
+    ],
+    "answer": "0, 3, 15, 26, 32"
+  },
+  {
+    "theme": "Croupier (Voisins)",
+    "number": 32,
+    "question": "Quels sont les voisins du 32 ?",
+    "options": [
+      "4, 15, 19, 21, 32",
+      "0, 4, 15, 19, 32",
+      "0, 15, 19, 26, 32",
+      "0, 3, 15, 26, 32"
+    ],
+    "answer": "0, 15, 19, 26, 32"
+  },
+  {
+    "theme": "Croupier (Voisins)",
+    "number": 15,
+    "question": "Quels sont les voisins du 15 ?",
+    "options": [
+      "0, 15, 19, 26, 32",
+      "0, 3, 15, 26, 32",
+      "4, 15, 19, 21, 32",
+      "0, 4, 15, 19, 32"
+    ],
+    "answer": "0, 4, 15, 19, 32"
+  },
+  {
+    "theme": "Croupier (Voisins)",
+    "number": 19,
+    "question": "Quels sont les voisins du 19 ?",
+    "options": [
+      "0, 15, 19, 26, 32",
+      "2, 4, 15, 19, 21",
+      "4, 15, 19, 21, 32",
+      "0, 4, 15, 19, 32"
+    ],
+    "answer": "4, 15, 19, 21, 32"
+  },
+  {
+    "theme": "Croupier (Voisins)",
+    "number": 4,
+    "question": "Quels sont les voisins du 4 ?",
+    "options": [
+      "4, 15, 19, 21, 32",
+      "0, 4, 15, 19, 32",
+      "2, 4, 15, 19, 21",
+      "2, 4, 19, 21, 25"
+    ],
+    "answer": "2, 4, 15, 19, 21"
+  },
+  {
+    "theme": "Croupier (Voisins)",
+    "number": 21,
+    "question": "Quels sont les voisins du 21 ?",
+    "options": [
+      "4, 15, 19, 21, 32",
+      "2, 4, 15, 19, 21",
+      "2, 4, 19, 21, 25",
+      "2, 4, 17, 21, 25"
+    ],
+    "answer": "2, 4, 19, 21, 25"
+  },
+  {
+    "theme": "Croupier (Voisins)",
+    "number": 2,
+    "question": "Quels sont les voisins du 2 ?",
+    "options": [
+      "2, 17, 21, 25, 34",
+      "2, 6, 17, 25, 34",
+      "2, 4, 15, 19, 21",
+      "2, 4, 17, 21, 25"
+    ],
+    "answer": "2, 4, 17, 21, 25"
+  },
+  {
+    "theme": "Croupier (Voisins)",
+    "number": 25,
+    "question": "Quels sont les voisins du 25 ?",
+    "options": [
+      "2, 6, 17, 25, 34",
+      "2, 17, 21, 25, 34",
+      "2, 4, 17, 21, 25",
+      "2, 4, 19, 21, 25"
+    ],
+    "answer": "2, 17, 21, 25, 34"
+  },
+  {
+    "theme": "Croupier (Voisins)",
+    "number": 17,
+    "question": "Quels sont les voisins du 17 ?",
+    "options": [
+      "6, 13, 17, 27, 34",
+      "2, 6, 17, 25, 34",
+      "2, 17, 21, 25, 34",
+      "2, 4, 17, 21, 25"
+    ],
+    "answer": "2, 6, 17, 25, 34"
+  },
+  {
+    "theme": "Croupier (Voisins)",
+    "number": 34,
+    "question": "Quels sont les voisins du 34 ?",
+    "options": [
+      "2, 17, 21, 25, 34",
+      "6, 13, 27, 34, 36",
+      "2, 6, 17, 25, 34",
+      "6, 17, 25, 27, 34"
+    ],
+    "answer": "6, 17, 25, 27, 34"
+  },
+  {
+    "theme": "Croupier (Voisins)",
+    "number": 6,
+    "question": "Quels sont les voisins du 6 ?",
+    "options": [
+      "6, 13, 17, 27, 34",
+      "6, 13, 27, 34, 36",
+      "6, 11, 13, 27, 36",
+      "2, 6, 17, 25, 34"
+    ],
+    "answer": "6, 13, 17, 27, 34"
+  },
+  {
+    "theme": "Croupier (Voisins)",
+    "number": 27,
+    "question": "Quels sont les voisins du 27 ?",
+    "options": [
+      "6, 13, 27, 34, 36",
+      "6, 13, 17, 27, 34",
+      "11, 13, 27, 30, 36",
+      "6, 11, 13, 27, 36"
+    ],
+    "answer": "6, 13, 27, 34, 36"
+  },
+  {
+    "theme": "Croupier (Voisins)",
+    "number": 13,
+    "question": "Quels sont les voisins du 13 ?",
+    "options": [
+      "6, 11, 13, 27, 36",
+      "6, 13, 17, 27, 34",
+      "6, 13, 27, 34, 36",
+      "8, 11, 13, 30, 36"
+    ],
+    "answer": "6, 11, 13, 27, 36"
+  },
+  {
+    "theme": "Croupier (Voisins)",
+    "number": 36,
+    "question": "Quels sont les voisins du 36 ?",
+    "options": [
+      "6, 13, 27, 34, 36",
+      "11, 13, 27, 30, 36",
+      "6, 11, 13, 27, 36",
+      "8, 11, 13, 30, 36"
+    ],
+    "answer": "11, 13, 27, 30, 36"
+  },
+  {
+    "theme": "Croupier (Voisins)",
+    "number": 11,
+    "question": "Quels sont les voisins du 11 ?",
+    "options": [
+      "6, 11, 13, 27, 36",
+      "8, 11, 23, 30, 36",
+      "8, 10, 11, 23, 30",
+      "8, 11, 13, 30, 36"
+    ],
+    "answer": "8, 11, 13, 30, 36"
+  },
+  {
+    "theme": "Croupier (Voisins)",
+    "number": 30,
+    "question": "Quels sont les voisins du 30 ?",
+    "options": [
+      "5, 8, 10, 23, 30",
+      "11, 13, 27, 30, 36",
+      "8, 11, 23, 30, 36",
+      "8, 10, 11, 23, 30"
+    ],
+    "answer": "8, 11, 23, 30, 36"
+  },
+  {
+    "theme": "Croupier (Voisins)",
+    "number": 8,
+    "question": "Quels sont les voisins du 8 ?",
+    "options": [
+      "5, 8, 10, 23, 24",
+      "5, 8, 10, 23, 30",
+      "8, 10, 11, 23, 30",
+      "8, 11, 13, 30, 36"
+    ],
+    "answer": "8, 10, 11, 23, 30"
+  },
+  {
+    "theme": "Croupier (Voisins)",
+    "number": 23,
+    "question": "Quels sont les voisins du 23 ?",
+    "options": [
+      "5, 8, 10, 23, 30",
+      "5, 8, 10, 23, 24",
+      "5, 10, 16, 23, 24",
+      "8, 10, 11, 23, 30"
+    ],
+    "answer": "5, 8, 10, 23, 30"
+  },
+  {
+    "theme": "Croupier (Voisins)",
+    "number": 10,
+    "question": "Quels sont les voisins du 10 ?",
+    "options": [
+      "5, 8, 10, 23, 30",
+      "5, 10, 16, 23, 24",
+      "5, 10, 16, 24, 33",
+      "5, 8, 10, 23, 24"
+    ],
+    "answer": "5, 8, 10, 23, 24"
+  },
+  {
+    "theme": "Croupier (Voisins)",
+    "number": 5,
+    "question": "Quels sont les voisins du 5 ?",
+    "options": [
+      "5, 8, 10, 23, 24",
+      "5, 10, 16, 24, 33",
+      "5, 8, 10, 23, 30",
+      "5, 10, 16, 23, 24"
+    ],
+    "answer": "5, 10, 16, 23, 24"
+  },
+  {
+    "theme": "Croupier (Voisins)",
+    "number": 24,
+    "question": "Quels sont les voisins du 24 ?",
+    "options": [
+      "5, 10, 16, 24, 33",
+      "5, 8, 10, 23, 24",
+      "5, 10, 16, 23, 24",
+      "1, 5, 16, 24, 33"
+    ],
+    "answer": "5, 10, 16, 24, 33"
+  },
+  {
+    "theme": "Croupier (Voisins)",
+    "number": 16,
+    "question": "Quels sont les voisins du 16 ?",
+    "options": [
+      "5, 10, 16, 23, 24",
+      "1, 16, 20, 24, 33",
+      "5, 10, 16, 24, 33",
+      "1, 5, 16, 24, 33"
+    ],
+    "answer": "1, 5, 16, 24, 33"
+  },
+  {
+    "theme": "Croupier (Voisins)",
+    "number": 33,
+    "question": "Quels sont les voisins du 33 ?",
+    "options": [
+      "1, 16, 20, 24, 33",
+      "1, 5, 16, 24, 33",
+      "1, 14, 16, 20, 33",
+      "5, 10, 16, 24, 33"
+    ],
+    "answer": "1, 16, 20, 24, 33"
+  },
+  {
+    "theme": "Croupier (Voisins)",
+    "number": 1,
+    "question": "Quels sont les voisins du 1 ?",
+    "options": [
+      "1, 9, 14, 20, 31",
+      "1, 14, 16, 20, 33",
+      "1, 5, 16, 24, 33",
+      "1, 16, 20, 24, 33"
+    ],
+    "answer": "1, 14, 16, 20, 33"
+  },
+  {
+    "theme": "Croupier (Voisins)",
+    "number": 20,
+    "question": "Quels sont les voisins du 20 ?",
+    "options": [
+      "1, 16, 20, 24, 33",
+      "1, 14, 16, 20, 33",
+      "1, 14, 20, 31, 33",
+      "9, 14, 20, 22, 31"
+    ],
+    "answer": "1, 14, 20, 31, 33"
+  },
+  {
+    "theme": "Croupier (Voisins)",
+    "number": 14,
+    "question": "Quels sont les voisins du 14 ?",
+    "options": [
+      "9, 14, 20, 22, 31",
+      "1, 14, 20, 31, 33",
+      "1, 14, 16, 20, 33",
+      "1, 9, 14, 20, 31"
+    ],
+    "answer": "1, 9, 14, 20, 31"
+  },
+  {
+    "theme": "Croupier (Voisins)",
+    "number": 31,
+    "question": "Quels sont les voisins du 31 ?",
+    "options": [
+      "1, 9, 14, 20, 31",
+      "9, 14, 20, 22, 31",
+      "9, 18, 22, 29, 31",
+      "1, 14, 20, 31, 33"
+    ],
+    "answer": "9, 14, 20, 22, 31"
+  },
+  {
+    "theme": "Croupier (Voisins)",
+    "number": 9,
+    "question": "Quels sont les voisins du 9 ?",
+    "options": [
+      "9, 14, 20, 22, 31",
+      "7, 9, 18, 22, 29",
+      "9, 14, 18, 22, 31",
+      "9, 18, 22, 29, 31"
+    ],
+    "answer": "9, 14, 18, 22, 31"
+  },
+  {
+    "theme": "Croupier (Voisins)",
+    "number": 22,
+    "question": "Quels sont les voisins du 22 ?",
+    "options": [
+      "9, 14, 18, 22, 31",
+      "9, 18, 22, 29, 31",
+      "7, 18, 22, 28, 29",
+      "9, 14, 20, 22, 31"
+    ],
+    "answer": "9, 18, 22, 29, 31"
+  },
+  {
+    "theme": "Croupier (Voisins)",
+    "number": 18,
+    "question": "Quels sont les voisins du 18 ?",
+    "options": [
+      "9, 18, 22, 29, 31",
+      "7, 9, 18, 22, 29",
+      "7, 12, 18, 28, 29",
+      "9, 14, 18, 22, 31"
+    ],
+    "answer": "7, 9, 18, 22, 29"
+  },
+  {
+    "theme": "Croupier (Voisins)",
+    "number": 29,
+    "question": "Quels sont les voisins du 29 ?",
+    "options": [
+      "7, 12, 18, 28, 29",
+      "9, 18, 22, 29, 31",
+      "7, 18, 22, 28, 29",
+      "7, 9, 18, 22, 29"
+    ],
+    "answer": "7, 18, 22, 28, 29"
+  },
+  {
+    "theme": "Croupier (Voisins)",
+    "number": 7,
+    "question": "Quels sont les voisins du 7 ?",
+    "options": [
+      "7, 12, 28, 29, 35",
+      "3, 7, 12, 28, 35",
+      "7, 9, 18, 22, 29",
+      "7, 12, 18, 28, 29"
+    ],
+    "answer": "7, 12, 18, 28, 29"
+  },
+  {
+    "theme": "Croupier (Voisins)",
+    "number": 28,
+    "question": "Quels sont les voisins du 28 ?",
+    "options": [
+      "7, 12, 28, 29, 35",
+      "7, 18, 22, 28, 29",
+      "3, 7, 12, 28, 35",
+      "7, 12, 18, 28, 29"
+    ],
+    "answer": "7, 12, 28, 29, 35"
+  },
+  {
+    "theme": "Croupier (Voisins)",
+    "number": 12,
+    "question": "Quels sont les voisins du 12 ?",
+    "options": [
+      "7, 12, 18, 28, 29",
+      "3, 12, 26, 28, 35",
+      "7, 12, 28, 29, 35",
+      "3, 7, 12, 28, 35"
+    ],
+    "answer": "3, 7, 12, 28, 35"
+  },
+  {
+    "theme": "Croupier (Voisins)",
+    "number": 35,
+    "question": "Quels sont les voisins du 35 ?",
+    "options": [
+      "3, 12, 26, 28, 35",
+      "3, 7, 12, 28, 35",
+      "0, 3, 12, 26, 35",
+      "7, 12, 28, 29, 35"
+    ],
+    "answer": "3, 12, 26, 28, 35"
+  },
+  {
+    "theme": "Croupier (Voisins)",
+    "number": 3,
+    "question": "Quels sont les voisins du 3 ?",
+    "options": [
+      "3, 12, 26, 28, 35",
+      "0, 3, 15, 26, 32",
+      "0, 3, 12, 26, 35",
+      "0, 3, 26, 32, 35"
+    ],
+    "answer": "0, 3, 12, 26, 35"
+  },
+  {
+    "theme": "Croupier (Voisins)",
+    "number": 26,
+    "question": "Quels sont les voisins du 26 ?",
+    "options": [
+      "0, 3, 15, 26, 32",
+      "0, 15, 19, 26, 32",
+      "0, 3, 26, 32, 35",
+      "3, 12, 26, 28, 35"
+    ],
+    "answer": "0, 3, 26, 32, 35"
+  }
+]

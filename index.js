@@ -19,7 +19,8 @@ const app = {
             { nom: "Game of Thrones", fichier: "got.json" },
             { nom: "Harry Potter", fichier: "hogwart.json" },
             { nom: "Code", fichier: "dev.json" },
-            { nom: "League of Legend", fichier: "lol.json" }
+            { nom: "League of Legend", fichier: "lol.json" },
+            { nom: "Croupier (Voisins du numéro)", fichier: "croupierVoisin.json"}
         ];
 
         app.tableauQuizz = [];
