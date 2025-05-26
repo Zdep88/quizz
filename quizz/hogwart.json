@@ -40,7 +40,7 @@
 	{
 		"theme": "Harry Potter",
 		"number": 5,
-		"question": "Quelle est la particularité du Patronus de Luna Lovegood ?",
+		"question": "Quelle est la forme du Patronus de Luna Lovegood ?",
 		"options": ["Un lièvre", "Un phénix", "Un loup", "Un chat"],
 		"answer": "Un lièvre"
 	},
